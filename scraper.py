@@ -88,16 +88,16 @@ def extract_domains(endpoint: str) -> set[str]:
     """
     html_doc = get_page(endpoint)
     soup = BeautifulSoup(html_doc, "html.parser")
-    domains: list[str] = []
+    domains: set[str] = set()
     for paragraph in soup.find_all("p"):
         if not paragraph.find("br"):
             continue
-        domains.extend(
+        domains.update(
             clean_url(elem.text)
             for elem in paragraph.contents
             if isinstance(elem, NavigableString)
         )
-    return sorted(set(domains))
+    return sorted(domains)
 
 
 if __name__ == "__main__":

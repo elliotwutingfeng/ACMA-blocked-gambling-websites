@@ -97,7 +97,7 @@ def extract_domains(endpoint: str) -> set[str]:
             for elem in paragraph.contents
             if isinstance(elem, NavigableString)
         )
-    return sorted(domains)
+    return domains
 
 
 if __name__ == "__main__":

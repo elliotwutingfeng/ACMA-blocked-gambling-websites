@@ -38,6 +38,7 @@
 ||717true.com^
 ||777bay.com^
 ||7bitcasino.com^
+||7bitcasino14.com^
 ||7bitcasino8.com^
 ||7reels.com^
 ||877play.com^
@@ -166,7 +167,6 @@
 ||candyland.casino^
 ||casinfortune1.com^
 ||casino-on-line.com^
-||casino.n1bet3.com^
 ||casino4u.io^
 ||casinoaus.com^
 ||casinobonus2.co^
@@ -421,6 +421,7 @@
 ||letslucky.com^
 ||letslucky1.com^
 ||letslucky2.com^
+||letslucky3.com^
 ||letslucky77.com^
 ||levelupcasino.com^
 ||levelupcasino1.com^
@@ -448,6 +449,7 @@
 ||muchovegascasino.com^
 ||n1bet.com^
 ||n1bet2.com^
+||n1bet3.com^
 ||natiocasino.com^
 ||natiocasino1.com^
 ||natiocasino2.com^
@@ -522,6 +524,7 @@
 ||playcrococasino.games^
 ||playfairgo.com^
 ||playfina.com^
+||playfina1.com^
 ||playp7oz.com^
 ||playragingbull.com^
 ||playshazam.com^
@@ -639,6 +642,8 @@
 ||rocketplay8.com^
 ||rocknreels.com^
 ||rocknreels2.com^
+||rocknreels3.com^
+||rocknreels4.com^
 ||rollingslots08.com^
 ||rollingslots15.com^
 ||roocasino.com^
@@ -657,6 +662,7 @@
 ||roocasino425.com^
 ||royalreels.com^
 ||royalreels1.com^
+||royalreels2.com^
 ||rp.casino^
 ||sector777.com^
 ||sector777mail.com^

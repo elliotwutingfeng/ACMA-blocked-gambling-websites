@@ -167,6 +167,7 @@
 ||candyland.casino^$all
 ||casinfortune1.com^$all
 ||casino-on-line.com^$all
+||casino.n1bet3.com^$all
 ||casino4u.io^$all
 ||casinoaus.com^$all
 ||casinobonus2.co^$all
@@ -449,7 +450,6 @@
 ||muchovegascasino.com^$all
 ||n1bet.com^$all
 ||n1bet2.com^$all
-||n1bet3.com^$all
 ||natiocasino.com^$all
 ||natiocasino1.com^$all
 ||natiocasino2.com^$all

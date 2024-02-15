@@ -21,6 +21,7 @@
 ||24pokies4.com^$all
 ||24pokies5.com^$all
 ||271games.com^$all
+||2neon54.com^$all
 ||2planet7.com^$all
 ||2trueblue.com^$all
 ||2up.club^$all
@@ -40,6 +41,7 @@
 ||7bitcasino.com^$all
 ||7bitcasino14.com^$all
 ||7bitcasino8.com^$all
+||7bitcasino9.com^$all
 ||7reels.com^$all
 ||877play.com^$all
 ||888true.com^$all
@@ -106,6 +108,7 @@
 ||baocasino.com^$all
 ||betandplay.com^$all
 ||betandplay1.com^$all
+||betandplay3.com^$all
 ||betchain.com^$all
 ||betibet.com^$all
 ||betroom24.com^$all
@@ -163,9 +166,11 @@
 ||box24casino.com^$all
 ||box24games.com^$all
 ||box24slots.com^$all
+||burancasino4.com^$all
 ||cabarino.com^$all
 ||candyland.casino^$all
 ||casinfortune1.com^$all
+||casinia1.com^$all
 ||casino-on-line.com^$all
 ||casino.n1bet3.com^$all
 ||casino4u.io^$all
@@ -187,6 +192,7 @@
 ||casinority.com^$all
 ||casinorocket1.com^$all
 ||casinorocket11.com^$all
+||casinorocket2.com^$all
 ||casinorocket21.com^$all
 ||casinorocket32.com^$all
 ||casinorocket5.com^$all
@@ -197,7 +203,9 @@
 ||cherry-gold.club^$all
 ||cherrygoldcasino.com^$all
 ||cherrygoldclub.com^$all
+||clash.gg^$all
 ||cleopatracasino.com^$all
+||cleopatracasino1.com^$all
 ||cloudbet.com^$all
 ||cloudbet888.com^$all
 ||clubrbc.com^$all
@@ -243,6 +251,8 @@
 ||fastpay-casino45.com^$all
 ||fastpay-casino48.com^$all
 ||fastpay-casino51.com^$all
+||fastpay-casino56.com^$all
+||fezbet1.com^$all
 ||fight-clubcasino.com^$all
 ||fightclub5.com^$all
 ||firefoxcasino.com^$all
@@ -264,6 +274,7 @@
 ||go2fairgo.com^$all
 ||go2redstag.com^$all
 ||go2uptownpokies.com^$all
+||goldenbet.com^$all
 ||goldencrowncasino.com^$all
 ||goldencrowncasino1.com^$all
 ||goldencrowncasino2.com^$all
@@ -312,9 +323,11 @@
 ||gwcasino325.com^$all
 ||gwcasino423.com^$all
 ||happyhugocasino.com^$all
+||heapsofwins.com^$all
 ||heapsowins.com^$all
 ||heapsowins.info^$all
 ||hell-spin.io^$all
+||hell888.com^$all
 ||hellspin.com^$all
 ||hellspin1.com^$all
 ||hellspin13.com^$all
@@ -340,6 +353,7 @@
 ||houseofpokies279.com^$all
 ||houseofpokies379.com^$all
 ||ignition165.com^$all
+||ignition231.com^$all
 ||ignitioncasino.buzz^$all
 ||ignitioncasino.cool^$all
 ||ignitioncasino.eu^$all
@@ -351,6 +365,7 @@
 ||ilucki.com^$all
 ||iluckicasino.com^$all
 ||jackpotjill.com^$all
+||jackpotjill.info^$all
 ||jackpotjill.live^$all
 ||jackpotjill.me^$all
 ||jackpotjill.net^$all
@@ -390,6 +405,7 @@
 ||joocasinos2.com^$all
 ||juicystakes.eu^$all
 ||justcasino.com^$all
+||justcasino1.com^$all
 ||justrbc.com^$all
 ||kahuna777.com^$all
 ||kahunacasino.com^$all
@@ -424,6 +440,7 @@
 ||letslucky2.com^$all
 ||letslucky3.com^$all
 ||letslucky77.com^$all
+||letsluckyau.com^$all
 ||levelupcasino.com^$all
 ||levelupcasino1.com^$all
 ||levelupcasino2.com^$all
@@ -436,6 +453,7 @@
 ||lokicasinoplay1.com^$all
 ||luckydreams.com^$all
 ||luckydreams1.com^$all
+||luckydreams5.com^$all
 ||luckydreams77.com^$all
 ||luckyelfcasino.com^$all
 ||luckyredstag.com^$all
@@ -450,6 +468,7 @@
 ||muchovegascasino.com^$all
 ||n1bet.com^$all
 ||n1bet2.com^$all
+||n1bet3.com^$all
 ||natiocasino.com^$all
 ||natiocasino1.com^$all
 ||natiocasino2.com^$all
@@ -463,6 +482,7 @@
 ||neospin1.com^$all
 ||neospin2.com^$all
 ||neospin3.com^$all
+||neospin4.com^$all
 ||newblackdiamond.com^$all
 ||newfairgo.com^$all
 ||newplanet7.com^$all
@@ -473,6 +493,7 @@
 ||ninjaspins72.com^$all
 ||nodepositfriend.com^$all
 ||nodepositkings.com^$all
+||nomini2.com^$all
 ||nordicasino.com^$all
 ||olympia.casino^$all
 ||olympia2.casino^$all
@@ -529,6 +550,7 @@
 ||playragingbull.com^$all
 ||playshazam.com^$all
 ||playtrueblue.com^$all
+||playzilla1.com^$all
 ||pokie-surf.com^$all
 ||pokieisland.com^$all
 ||pokieisland531.com^$all
@@ -623,6 +645,7 @@
 ||rickycasino2.com^$all
 ||rickycasino4.com^$all
 ||rickycasino5.com^$all
+||rickycasino6.com^$all
 ||ripper-pokies.com^$all
 ||ripper.games^$all
 ||rippercasino.com^$all
@@ -644,6 +667,7 @@
 ||rocknreels2.com^$all
 ||rocknreels3.com^$all
 ||rocknreels4.com^$all
+||rocknreels5.com^$all
 ||rollingslots08.com^$all
 ||rollingslots15.com^$all
 ||roocasino.com^$all
@@ -663,9 +687,11 @@
 ||royalreels.com^$all
 ||royalreels1.com^$all
 ||royalreels2.com^$all
+||royalreels3.com^$all
 ||rp.casino^$all
 ||sector777.com^$all
 ||sector777mail.com^$all
+||sgcasino.com^$all
 ||skycrown.com^$all
 ||skycrown1.com^$all
 ||skycrown2.com^$all
@@ -685,6 +711,7 @@
 ||slotsgallery1.com^$all
 ||slotsgallery2.com^$all
 ||slotsofwins.com^$all
+||slotspalace1.com^$all
 ||slotvibe.com^$all
 ||slotvibe20.com^$all
 ||slotvibe21.com^$all
@@ -704,6 +731,7 @@
 ||spinago5.casino^$all
 ||spinago6.casino^$all
 ||spinago8.casino^$all
+||spinbetter.com^$all
 ||spinbit.com^$all
 ||spinoasis.com^$all
 ||spinsamurai.com^$all
@@ -767,6 +795,7 @@
 ||thepokies78.net^$all
 ||thepokies8.net^$all
 ||thepokies83.net^$all
+||thepokies84.net^$all
 ||thepokies9.net^$all
 ||thunderpick.io^$all
 ||topaussiecasinos.com^$all
@@ -810,6 +839,7 @@
 ||viggoslots.com^$all
 ||vipcasinorocket.com^$all
 ||viperspin.com^$all
+||viperspin.net^$all
 ||vipspinsamurai.com^$all
 ||wabo88.com^$all
 ||wabo88.me^$all
@@ -824,6 +854,7 @@
 ||wagerbeat342.com^$all
 ||wagerbeat414.com^$all
 ||wagerbeat435.com^$all
+||wazamba1.com^$all
 ||welovelotto.com^$all
 ||wildblaster.com^$all
 ||wildblaster46.com^$all
@@ -866,9 +897,11 @@
 ||xpslots.com^$all
 ||yabbycasino.com^$all
 ||yoju.casino^$all
+||yoju1.casino^$all
 ||zebet.com^$all
 ||zenbetting.com^$all
 ||zencasino88.com^$all
 ||zenithslots.com^$all
+||zetcasino1.com^$all
 ||zeturf.com^$all
 ||zoome1.casino^$all

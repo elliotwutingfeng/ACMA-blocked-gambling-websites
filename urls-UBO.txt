@@ -30,6 +30,7 @@
 ||444true.com^$all
 ||475p7.com^$all
 ||4clockfortune.com^$all
+||50crowns.com^$all
 ||5gringos1.com^$all
 ||5gringos2.com^$all
 ||616fun.com^$all
@@ -114,6 +115,8 @@
 ||betroom24.com^$all
 ||betus.com.pa^$all
 ||bigredstag.com^$all
+||bitdreams.com^$all
+||bitdreams1.com^$all
 ||bitkingz.com^$all
 ||bitstarz.com^$all
 ||bitstarz28.com^$all
@@ -182,6 +185,7 @@
 ||casinochan3.com^$all
 ||casinochan4.com^$all
 ||casinodingo.com^$all
+||casinoinfinity.com^$all
 ||casinojax.com^$all
 ||casinomoons.com^$all
 ||casinomoonsvip.com^$all
@@ -426,6 +430,7 @@
 ||kingbillywin9.com^$all
 ||kingjohnnie.com^$all
 ||kingjohnnie.info^$all
+||kingjohnnie.live^$all
 ||kingjohnnie.net^$all
 ||kingschance.com^$all
 ||koalaroyal.com^$all
@@ -451,6 +456,7 @@
 ||liveragingbull.com^$all
 ||lokicasino.com^$all
 ||lokicasinoplay1.com^$all
+||lucky7even.com^$all
 ||luckydreams.com^$all
 ||luckydreams1.com^$all
 ||luckydreams5.com^$all
@@ -465,6 +471,7 @@
 ||megaslot.io^$all
 ||miraxcasino.com^$all
 ||miraxcasino1.com^$all
+||mrpacho1.com^$all
 ||muchovegascasino.com^$all
 ||n1bet.com^$all
 ||n1bet2.com^$all
@@ -476,6 +483,7 @@
 ||natiocasino6.com^$all
 ||natiocasino7.com^$all
 ||natiocasino8.com^$all
+||natiocasino9.com^$all
 ||nationalcasino.co^$all
 ||nationalcasino.com^$all
 ||neospin.com^$all
@@ -668,6 +676,10 @@
 ||rocknreels3.com^$all
 ||rocknreels4.com^$all
 ||rocknreels5.com^$all
+||rockwin.io^$all
+||rockwin1.io^$all
+||rockwin2.io^$all
+||rockwin3.io^$all
 ||rollingslots08.com^$all
 ||rollingslots15.com^$all
 ||roocasino.com^$all
@@ -722,6 +734,7 @@
 ||spartans-slots.net^$all
 ||spartanslots.com^$all
 ||spartansslots.net^$all
+||spicyjackpots.com^$all
 ||spinago.casino^$all
 ||spinago.com^$all
 ||spinago1.casino^$all
@@ -731,6 +744,7 @@
 ||spinago5.casino^$all
 ||spinago6.casino^$all
 ||spinago8.casino^$all
+||spinago9.casino^$all
 ||spinbetter.com^$all
 ||spinbit.com^$all
 ||spinoasis.com^$all
@@ -742,6 +756,7 @@
 ||spinsamurai6.com^$all
 ||spintropolis.com^$all
 ||sportaza.com^$all
+||sportaza2.com^$all
 ||staycasino.bet^$all
 ||staycasino.com^$all
 ||staycasino.live^$all
@@ -749,6 +764,7 @@
 ||stellarspins.com^$all
 ||stellarspins.live^$all
 ||stellarspins.net^$all
+||stellarspins.online^$all
 ||syndicate.casino^$all
 ||syndicate1.casino^$all
 ||syndicatecasino.xyz^$all
@@ -796,6 +812,7 @@
 ||thepokies8.net^$all
 ||thepokies83.net^$all
 ||thepokies84.net^$all
+||thepokies85.net^$all
 ||thepokies9.net^$all
 ||thunderpick.io^$all
 ||topaussiecasinos.com^$all
@@ -861,6 +878,7 @@
 ||wildcardcity.com^$all
 ||wildcardcity.info^$all
 ||wildcardcity.live^$all
+||wildfortune24.io^$all
 ||wildfortune3.io^$all
 ||wildfortune8.io^$all
 ||wildjoker.com^$all
@@ -905,3 +923,4 @@
 ||zetcasino1.com^$all
 ||zeturf.com^$all
 ||zoome1.casino^$all
+||zotabet.com^$all

@@ -38,7 +38,7 @@
 ||675go.com^$all
 ||717fun.com^$all
 ||717true.com^$all
-||777bay.com^$all
+||777Bay.com^$all
 ||7bitcasino.com^$all
 ||7bitcasino14.com^$all
 ||7bitcasino8.com^$all
@@ -46,19 +46,6 @@
 ||7reels.com^$all
 ||877play.com^$all
 ||888true.com^$all
-||Arescasino1.com^$all
-||Blackdiamondscasino.net^$all
-||Fairgoforyou.com^$all
-||Freespin.com^$all
-||Joefortune.lv^$all
-||Playamo30.com^$all
-||Playamo31.com^$all
-||Pokiesway1.com^$all
-||Slotsempire.com^$all
-||Truebluecasinoapp.com^$all
-||Twoupcasino.com^$all
-||Wagerbeat252.com^$all
-||Wpokies1.com^$all
 ||abalucky33.com^$all
 ||abocasino.com^$all
 ||acepokies.net^$all
@@ -73,6 +60,7 @@
 ||allspinswin713.com^$all
 ||alwaysvegas.eu^$all
 ||arescasino.com^$all
+||arescasino1.com^$all
 ||arescasino2.com^$all
 ||arescasino3.com^$all
 ||arlekincasino.com^$all
@@ -139,6 +127,7 @@
 ||black-diamondslots.net^$all
 ||blackdiamond4u.com^$all
 ||blackdiamondcasino.net^$all
+||blackdiamondscasino.net^$all
 ||blackdiamondslots.net^$all
 ||blueleo.com^$all
 ||bo-vegas.club^$all
@@ -229,6 +218,7 @@
 ||excitewin.com^$all
 ||extravegas.com^$all
 ||fabspins.com^$all
+||fair-go.casino^$all
 ||fairgo.casino^$all
 ||fairgo.co^$all
 ||fairgo4u.com^$all
@@ -240,6 +230,7 @@
 ||fairgocasinoau.com^$all
 ||fairgocasinoaud.com^$all
 ||fairgocasinobonuses.com^$all
+||fairgoforyou.com^$all
 ||fairgofun.com^$all
 ||fairgogames.com^$all
 ||fairgojackpots.com^$all
@@ -259,10 +250,12 @@
 ||fezbet1.com^$all
 ||fight-clubcasino.com^$all
 ||fightclub5.com^$all
+||fightclubcasino.com^$all
 ||firefoxcasino.com^$all
 ||fortuneclock.com^$all
 ||free-spin.club^$all
 ||free-spin.vip^$all
+||freespin.com^$all
 ||freespinfun.com^$all
 ||freespinpro.com^$all
 ||gambleonline.co^$all
@@ -295,6 +288,7 @@
 ||goldenpokies535.com^$all
 ||goldenpokies54.com^$all
 ||goldenpokies713.com^$all
+||goldenpokies735.com^$all
 ||goldenreels.com^$all
 ||goldenreels1.com^$all
 ||goldenreels2.com^$all
@@ -320,7 +314,10 @@
 ||greenspin1.bet^$all
 ||gunsbet.co^$all
 ||gunsbet.com^$all
+||gunsbetplay1.com^$all
 ||gwcasino.com^$all
+||gwcasino235.com^$all
+||gwcasino265.com^$all
 ||gwcasino280.com^$all
 ||gwcasino295.com^$all
 ||gwcasino310.com^$all
@@ -355,6 +352,7 @@
 ||houseofpokies117.com^$all
 ||houseofpokies266.com^$all
 ||houseofpokies279.com^$all
+||houseofpokies28.com^$all
 ||houseofpokies379.com^$all
 ||ignition165.com^$all
 ||ignition231.com^$all
@@ -368,6 +366,7 @@
 ||ignitionpoker.net.lv^$all
 ||ilucki.com^$all
 ||iluckicasino.com^$all
+||iplanet7.com^$all
 ||jackpotjill.com^$all
 ||jackpotjill.info^$all
 ||jackpotjill.live^$all
@@ -382,6 +381,7 @@
 ||joefortune.com.lv^$all
 ||joefortune.eu^$all
 ||joefortune.eu.com^$all
+||joefortune.lv^$all
 ||joefortune.net^$all
 ||joefortuneonlinepokies.com^$all
 ||joefortuneonlinepokies.net^$all
@@ -404,9 +404,9 @@
 ||jokaviproom.vip^$all
 ||joocasino.com^$all
 ||joocasino24.com^$all
-||joocasino4.com^$all
 ||joocasinos.com^$all
 ||joocasinos2.com^$all
+||joocasinos4.com^$all
 ||juicystakes.eu^$all
 ||justcasino.com^$all
 ||justcasino1.com^$all
@@ -538,6 +538,8 @@
 ||playamo27.com^$all
 ||playamo28.com^$all
 ||playamo29.com^$all
+||playamo30.com^$all
+||playamo31.com^$all
 ||playamo32.com^$all
 ||playamo33.com^$all
 ||playamo34.com^$all
@@ -590,6 +592,7 @@
 ||pokiesurf-casino.com^$all
 ||pokiesurf.com^$all
 ||pokiesway.com^$all
+||pokiesway1.com^$all
 ||pokiesway2.com^$all
 ||pokiesway3.com^$all
 ||pokiesway4.com^$all
@@ -604,6 +607,7 @@
 ||pokizino.net^$all
 ||powbet.com^$all
 ||queenspins.com^$all
+||queenspins1.com^$all
 ||queenspins2.com^$all
 ||rabona.com^$all
 ||rabona1.com^$all
@@ -719,6 +723,7 @@
 ||slotsberlin5.com^$all
 ||slotscapital.lv^$all
 ||slotscapitalfun.com^$all
+||slotsempire.com^$all
 ||slotsempiregames.com^$all
 ||slotsgallery1.com^$all
 ||slotsgallery2.com^$all
@@ -727,6 +732,7 @@
 ||slotvibe.com^$all
 ||slotvibe20.com^$all
 ||slotvibe21.com^$all
+||slotvibe22.com^$all
 ||sol.casino^$all
 ||sol100.casino^$all
 ||spacelilly.com^$all
@@ -834,10 +840,12 @@
 ||trueblue777.com^$all
 ||trueblueau.com^$all
 ||truebluecasino.com^$all
+||truebluecasinoapp.com^$all
 ||truebluecasinoau.com^$all
 ||truebluecasinos.com.au^$all
 ||tsars.com^$all
 ||twoup.club^$all
+||twoupcasino.com^$all
 ||twoupclub.com^$all
 ||twoupwin.com^$all
 ||uptownaces.eu^$all
@@ -863,6 +871,7 @@
 ||wagerbeat.com^$all
 ||wagerbeat222.com^$all
 ||wagerbeat237.com^$all
+||wagerbeat252.com^$all
 ||wagerbeat282.com^$all
 ||wagerbeat297.com^$all
 ||wagerbeat309.com^$all
@@ -907,6 +916,7 @@
 ||woocasino6.com^$all
 ||woocasino78.com^$all
 ||wpokies.com^$all
+||wpokies1.com^$all
 ||wpokies2.com^$all
 ||wpokies3.com^$all
 ||wpokies4.com^$all

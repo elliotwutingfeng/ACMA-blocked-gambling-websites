@@ -46,6 +46,7 @@
 ||7reels.com^$all
 ||877play.com^$all
 ||888true.com^$all
+||Spinfever.com^$all
 ||abalucky33.com^$all
 ||abocasino.com^$all
 ||acepokies.net^$all
@@ -68,6 +69,7 @@
 ||arlekincasino2.com^$all
 ||arlekincasino3.com^$all
 ||au-slots.com^$all
+||audfairgo.com^$all
 ||audfairgocasino.com^$all
 ||aufairgocasino.com^$all
 ||auonlinecasino.com^$all
@@ -100,6 +102,7 @@
 ||betandplay3.com^$all
 ||betchain.com^$all
 ||betibet.com^$all
+||betonredstag.com^$all
 ||betroom24.com^$all
 ||betus.com.pa^$all
 ||bigredstag.com^$all
@@ -164,6 +167,7 @@
 ||casinfortune1.com^$all
 ||casinia1.com^$all
 ||casino-on-line.com^$all
+||casino-ozwin.com^$all
 ||casino.n1bet3.com^$all
 ||casino4u.io^$all
 ||casinoaus.com^$all
@@ -176,6 +180,7 @@
 ||casinodingo.com^$all
 ||casinoinfinity.com^$all
 ||casinojax.com^$all
+||casinojax1.com^$all
 ||casinomoons.com^$all
 ||casinomoonsvip.com^$all
 ||casinonic.com^$all
@@ -210,9 +215,11 @@
 ||dazard1.com^$all
 ||desertnightscasino.com^$all
 ||digits7.com^$all
+||digits7.info^$all
 ||digits7casino.com^$all
 ||dingoo-casinoo.net^$all
 ||dinkumpokies.com^$all
+||dundeeslots.com^$all
 ||emu-casino.com^$all
 ||emucasino.com^$all
 ||excitewin.com^$all
@@ -247,6 +254,7 @@
 ||fastpay-casino48.com^$all
 ||fastpay-casino51.com^$all
 ||fastpay-casino56.com^$all
+||fastpay-casino60.com^$all
 ||fezbet1.com^$all
 ||fight-clubcasino.com^$all
 ||fightclub5.com^$all
@@ -325,6 +333,7 @@
 ||gwcasino423.com^$all
 ||happyhugocasino.com^$all
 ||heapsofwins.com^$all
+||heapsofwins.net^$all
 ||heapsowins.com^$all
 ||heapsowins.info^$all
 ||hell-spin.io^$all
@@ -388,8 +397,10 @@
 ||joefortunepokies.com^$all
 ||joefortunepokies.eu^$all
 ||joefortunepokies.net^$all
+||jogicasino.com^$all
 ||johnniekashkings.co^$all
 ||johnniekashkings.com^$all
+||johnniekashkings.info^$all
 ||johnniekashkings.live^$all
 ||johnniekashkings.net^$all
 ||johnniekashkings.online^$all
@@ -410,6 +421,8 @@
 ||juicystakes.eu^$all
 ||justcasino.com^$all
 ||justcasino1.com^$all
+||justcasino2.com^$all
+||justcasinoaus.com^$all
 ||justrbc.com^$all
 ||kahuna777.com^$all
 ||kahunacasino.com^$all
@@ -418,6 +431,7 @@
 ||katsubet.com^$all
 ||katsubet1.com^$all
 ||katsubet10.com^$all
+||katsubet12.com^$all
 ||kimvegas.com^$all
 ||kingbillycasino.com^$all
 ||kingbillycasino12.com^$all
@@ -442,8 +456,10 @@
 ||legitgamblingsites.com^$all
 ||letslucky.com^$all
 ||letslucky1.com^$all
+||letslucky17.com^$all
 ||letslucky2.com^$all
 ||letslucky3.com^$all
+||letslucky4.com^$all
 ||letslucky77.com^$all
 ||letsluckyau.com^$all
 ||levelupcasino.com^$all
@@ -461,13 +477,18 @@
 ||luckydreams1.com^$all
 ||luckydreams5.com^$all
 ||luckydreams77.com^$all
+||luckydreams8.com^$all
 ||luckyelfcasino.com^$all
+||luckyhunter.com^$all
 ||luckyredstag.com^$all
 ||luckystar.io^$all
 ||luckystar1.io^$all
 ||luckystar2.io^$all
 ||luckytigercasino.com^$all
 ||luckytigerpromo.com^$all
+||luckywins.com^$all
+||luckywins2.com^$all
+||lukki.com^$all
 ||megaslot.io^$all
 ||miraxcasino.com^$all
 ||miraxcasino1.com^$all
@@ -512,6 +533,7 @@
 ||onlinetrueblue.com^$all
 ||oshi1.io^$all
 ||oshi2.io^$all
+||oshi3.io^$all
 ||ozbet88au.com^$all
 ||ozwin.casino^$all
 ||ozwin.games^$all
@@ -667,6 +689,7 @@
 ||rocketplay1.com^$all
 ||rocketplay11.com^$all
 ||rocketplay12.com^$all
+||rocketplay13.com^$all
 ||rocketplay2.com^$all
 ||rocketplay25.com^$all
 ||rocketplay3.com^$all
@@ -686,6 +709,7 @@
 ||rockwin3.io^$all
 ||rollingslots08.com^$all
 ||rollingslots15.com^$all
+||rollingslots7.com^$all
 ||roocasino.com^$all
 ||roocasino249.com^$all
 ||roocasino264.com^$all
@@ -704,8 +728,10 @@
 ||royalreels1.com^$all
 ||royalreels2.com^$all
 ||royalreels3.com^$all
+||royalreels4.com^$all
 ||rp.casino^$all
 ||sector777.com^$all
+||sector777.info^$all
 ||sector777mail.com^$all
 ||sgcasino.com^$all
 ||skycrown.com^$all
@@ -781,6 +807,8 @@
 ||thebescasino1.com^$all
 ||thebescasino2.com^$all
 ||thebescasinovip.com^$all
+||theclubhousecasino2.com^$all
+||theclubhousecasino3.com^$all
 ||thegogoroom.com^$all
 ||thepokies.net^$all
 ||thepokies1.net^$all
@@ -819,6 +847,7 @@
 ||thepokies83.net^$all
 ||thepokies84.net^$all
 ||thepokies85.net^$all
+||thepokies86.net^$all
 ||thepokies9.net^$all
 ||thunderpick.io^$all
 ||topaussiecasinos.com^$all
@@ -902,6 +931,7 @@
 ||winnerama1.com^$all
 ||winningdays1.com^$all
 ||winparadise.com^$all
+||winportcasino.com^$all
 ||winwardcasino.com^$all
 ||winz.io^$all
 ||wolfwinner.com^$all

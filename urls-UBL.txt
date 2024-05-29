@@ -46,6 +46,7 @@
 *://*.7reels.com/*
 *://*.877play.com/*
 *://*.888true.com/*
+*://*.Spinfever.com/*
 *://*.abalucky33.com/*
 *://*.abocasino.com/*
 *://*.acepokies.net/*
@@ -68,6 +69,7 @@
 *://*.arlekincasino2.com/*
 *://*.arlekincasino3.com/*
 *://*.au-slots.com/*
+*://*.audfairgo.com/*
 *://*.audfairgocasino.com/*
 *://*.aufairgocasino.com/*
 *://*.auonlinecasino.com/*
@@ -100,6 +102,7 @@
 *://*.betandplay3.com/*
 *://*.betchain.com/*
 *://*.betibet.com/*
+*://*.betonredstag.com/*
 *://*.betroom24.com/*
 *://*.betus.com.pa/*
 *://*.bigredstag.com/*
@@ -164,6 +167,7 @@
 *://*.casinfortune1.com/*
 *://*.casinia1.com/*
 *://*.casino-on-line.com/*
+*://*.casino-ozwin.com/*
 *://*.casino4u.io/*
 *://*.casinoaus.com/*
 *://*.casinobonus2.co/*
@@ -175,6 +179,7 @@
 *://*.casinodingo.com/*
 *://*.casinoinfinity.com/*
 *://*.casinojax.com/*
+*://*.casinojax1.com/*
 *://*.casinomoons.com/*
 *://*.casinomoonsvip.com/*
 *://*.casinonic.com/*
@@ -209,9 +214,11 @@
 *://*.dazard1.com/*
 *://*.desertnightscasino.com/*
 *://*.digits7.com/*
+*://*.digits7.info/*
 *://*.digits7casino.com/*
 *://*.dingoo-casinoo.net/*
 *://*.dinkumpokies.com/*
+*://*.dundeeslots.com/*
 *://*.emu-casino.com/*
 *://*.emucasino.com/*
 *://*.eu.com/*
@@ -247,6 +254,7 @@
 *://*.fastpay-casino48.com/*
 *://*.fastpay-casino51.com/*
 *://*.fastpay-casino56.com/*
+*://*.fastpay-casino60.com/*
 *://*.fezbet1.com/*
 *://*.fight-clubcasino.com/*
 *://*.fightclub5.com/*
@@ -325,6 +333,7 @@
 *://*.gwcasino423.com/*
 *://*.happyhugocasino.com/*
 *://*.heapsofwins.com/*
+*://*.heapsofwins.net/*
 *://*.heapsowins.com/*
 *://*.heapsowins.info/*
 *://*.hell-spin.io/*
@@ -387,8 +396,10 @@
 *://*.joefortunepokies.com/*
 *://*.joefortunepokies.eu/*
 *://*.joefortunepokies.net/*
+*://*.jogicasino.com/*
 *://*.johnniekashkings.co/*
 *://*.johnniekashkings.com/*
+*://*.johnniekashkings.info/*
 *://*.johnniekashkings.live/*
 *://*.johnniekashkings.net/*
 *://*.johnniekashkings.online/*
@@ -409,6 +420,8 @@
 *://*.juicystakes.eu/*
 *://*.justcasino.com/*
 *://*.justcasino1.com/*
+*://*.justcasino2.com/*
+*://*.justcasinoaus.com/*
 *://*.justrbc.com/*
 *://*.kahuna777.com/*
 *://*.kahunacasino.com/*
@@ -417,6 +430,7 @@
 *://*.katsubet.com/*
 *://*.katsubet1.com/*
 *://*.katsubet10.com/*
+*://*.katsubet12.com/*
 *://*.kimvegas.com/*
 *://*.kingbillycasino.com/*
 *://*.kingbillycasino12.com/*
@@ -441,8 +455,10 @@
 *://*.legitgamblingsites.com/*
 *://*.letslucky.com/*
 *://*.letslucky1.com/*
+*://*.letslucky17.com/*
 *://*.letslucky2.com/*
 *://*.letslucky3.com/*
+*://*.letslucky4.com/*
 *://*.letslucky77.com/*
 *://*.letsluckyau.com/*
 *://*.levelupcasino.com/*
@@ -460,13 +476,18 @@
 *://*.luckydreams1.com/*
 *://*.luckydreams5.com/*
 *://*.luckydreams77.com/*
+*://*.luckydreams8.com/*
 *://*.luckyelfcasino.com/*
+*://*.luckyhunter.com/*
 *://*.luckyredstag.com/*
 *://*.luckystar.io/*
 *://*.luckystar1.io/*
 *://*.luckystar2.io/*
 *://*.luckytigercasino.com/*
 *://*.luckytigerpromo.com/*
+*://*.luckywins.com/*
+*://*.luckywins2.com/*
+*://*.lukki.com/*
 *://*.megaslot.io/*
 *://*.miraxcasino.com/*
 *://*.miraxcasino1.com/*
@@ -511,6 +532,7 @@
 *://*.onlinetrueblue.com/*
 *://*.oshi1.io/*
 *://*.oshi2.io/*
+*://*.oshi3.io/*
 *://*.ozbet88au.com/*
 *://*.ozwin.casino/*
 *://*.ozwin.games/*
@@ -666,6 +688,7 @@
 *://*.rocketplay1.com/*
 *://*.rocketplay11.com/*
 *://*.rocketplay12.com/*
+*://*.rocketplay13.com/*
 *://*.rocketplay2.com/*
 *://*.rocketplay25.com/*
 *://*.rocketplay3.com/*
@@ -685,6 +708,7 @@
 *://*.rockwin3.io/*
 *://*.rollingslots08.com/*
 *://*.rollingslots15.com/*
+*://*.rollingslots7.com/*
 *://*.roocasino.com/*
 *://*.roocasino249.com/*
 *://*.roocasino264.com/*
@@ -703,8 +727,10 @@
 *://*.royalreels1.com/*
 *://*.royalreels2.com/*
 *://*.royalreels3.com/*
+*://*.royalreels4.com/*
 *://*.rp.casino/*
 *://*.sector777.com/*
+*://*.sector777.info/*
 *://*.sector777mail.com/*
 *://*.sgcasino.com/*
 *://*.skycrown.com/*
@@ -780,6 +806,8 @@
 *://*.thebescasino1.com/*
 *://*.thebescasino2.com/*
 *://*.thebescasinovip.com/*
+*://*.theclubhousecasino2.com/*
+*://*.theclubhousecasino3.com/*
 *://*.thegogoroom.com/*
 *://*.thepokies.net/*
 *://*.thepokies1.net/*
@@ -818,6 +846,7 @@
 *://*.thepokies83.net/*
 *://*.thepokies84.net/*
 *://*.thepokies85.net/*
+*://*.thepokies86.net/*
 *://*.thepokies9.net/*
 *://*.thunderpick.io/*
 *://*.topaussiecasinos.com/*
@@ -901,6 +930,7 @@
 *://*.winnerama1.com/*
 *://*.winningdays1.com/*
 *://*.winparadise.com/*
+*://*.winportcasino.com/*
 *://*.winwardcasino.com/*
 *://*.winz.io/*
 *://*.wolfwinner.com/*

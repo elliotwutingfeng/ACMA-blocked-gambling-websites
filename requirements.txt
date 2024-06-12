@@ -1,4 +1,4 @@
-bandit==1.7.8
+bandit==1.7.9
 beautifulsoup4==4.12.3
 black==24.4.2
 mypy==1.10.0

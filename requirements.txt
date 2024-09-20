@@ -3,7 +3,7 @@ beautifulsoup4==4.12.3
 black==24.8.0
 mypy==1.11.2
 mypy-extensions==1.0.0
-pylint==3.2.7
+pylint==3.3.0
 selenium==4.24.0
 tldextract==5.1.2
 typing-extensions==4.12.2

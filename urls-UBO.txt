@@ -8,6 +8,7 @@
 ||1red.com^$all
 ||1trueblue.com^$all
 ||21bit1.com^$all
+||21bit9.com^$all
 ||21dukes.com^$all
 ||21dukes1.com^$all
 ||21dukes2.com^$all
@@ -90,6 +91,7 @@
 ||australia-casino.org^$all
 ||australiagambling.net^$all
 ||australiancasinoclub.com^$all
+||australiancasinoclub.net^$all
 ||australiancasinosites.com^$all
 ||australiangambling.ch^$all
 ||australiangambling.lv^$all
@@ -103,6 +105,7 @@
 ||betandplay.com^$all
 ||betandplay1.com^$all
 ||betandplay3.com^$all
+||betandplay4.com^$all
 ||betchain.com^$all
 ||betibet.com^$all
 ||betonredstag.com^$all
@@ -169,6 +172,7 @@
 ||candyland.casino^$all
 ||casinfortune1.com^$all
 ||casinia1.com^$all
+||casinia3.com^$all
 ||casino-on-line.com^$all
 ||casino-ozwin.com^$all
 ||casino.n1bet3.com^$all
@@ -204,12 +208,12 @@
 ||casinorocket5.com^$all
 ||casinorocket76.com^$all
 ||casinorocket8.com^$all
+||casinorocket89.com^$all
 ||casinorocket9.com^$all
 ||casinoshortlist.org^$all
 ||cherry-gold.club^$all
 ||cherrygoldcasino.com^$all
 ||cherrygoldclub.com^$all
-||clash.gg^$all
 ||cleopatracasino.com^$all
 ||cleopatracasino1.com^$all
 ||cloudbet.com^$all
@@ -235,6 +239,7 @@
 ||fabspins.com^$all
 ||fair-go.casino^$all
 ||fairgo-casino-au.com^$all
+||fairgo-online.com^$all
 ||fairgo-wins.com^$all
 ||fairgo.casino^$all
 ||fairgo.co^$all
@@ -374,7 +379,6 @@
 ||houseofpokies266.com^$all
 ||houseofpokies279.com^$all
 ||houseofpokies28.com^$all
-||houseofpokies379.com^$all
 ||ignition165.com^$all
 ||ignition231.com^$all
 ||ignitioncasino.buzz^$all
@@ -470,6 +474,7 @@
 ||kingjohnnie.live^$all
 ||kingjohnnie.net^$all
 ||kingjohnnie.online^$all
+||kingjohnnie1.com^$all
 ||kingschance.com^$all
 ||koalaroyal.com^$all
 ||koalasfairgo.com^$all
@@ -490,6 +495,7 @@
 ||letsluckyau.com^$all
 ||levelupcasino.com^$all
 ||levelupcasino1.com^$all
+||levelupcasino10.com^$all
 ||levelupcasino2.com^$all
 ||levelupcasino3.com^$all
 ||levelupcasino4.com^$all
@@ -500,6 +506,7 @@
 ||lokicasino.com^$all
 ||lokicasinoplay1.com^$all
 ||lucky7even.com^$all
+||luckyblock.com^$all
 ||luckydreams.com^$all
 ||luckydreams1.com^$all
 ||luckydreams5.com^$all
@@ -613,6 +620,7 @@
 ||playfina.com^$all
 ||playfina1.com^$all
 ||playfina3.com^$all
+||playfina5.com^$all
 ||playp7oz.com^$all
 ||playragingbull.com^$all
 ||playshazam.com^$all
@@ -728,6 +736,7 @@
 ||ripper.games^$all
 ||rippercasino.com^$all
 ||ripperpokies.com^$all
+||rippers-pokies.com^$all
 ||robinroo.com^$all
 ||rocketplay.com^$all
 ||rocketplay1.com^$all
@@ -770,6 +779,9 @@
 ||roocasino369.com^$all
 ||roocasino414.com^$all
 ||roocasino425.com^$all
+||rooli.com^$all
+||rooli1.com^$all
+||rooli3.com^$all
 ||royalreels.com^$all
 ||royalreels1.com^$all
 ||royalreels2.com^$all
@@ -849,6 +861,7 @@
 ||staycasino.live^$all
 ||staycasino7.com^$all
 ||stellarspins.com^$all
+||stellarspins.io^$all
 ||stellarspins.live^$all
 ||stellarspins.me^$all
 ||stellarspins.net^$all
@@ -871,6 +884,7 @@
 ||thepokies1.net^$all
 ||thepokies10.net^$all
 ||thepokies102.net^$all
+||thepokies103.net^$all
 ||thepokies11.net^$all
 ||thepokies12.net^$all
 ||thepokies14.net^$all
@@ -972,6 +986,7 @@
 ||wagerbeat342.com^$all
 ||wagerbeat414.com^$all
 ||wagerbeat435.com^$all
+||wagerbeat531.com^$all
 ||wantedwin7.com^$all
 ||wazamba1.com^$all
 ||welovelotto.com^$all

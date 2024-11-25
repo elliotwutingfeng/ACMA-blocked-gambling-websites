@@ -110,6 +110,7 @@ betchain.com
 betibet.com
 betonredstag.com
 betroom24.com
+betsquare.com
 betus.com.pa
 bigredstag.com
 bitdreams.com
@@ -278,6 +279,8 @@ firefoxcasino.com
 fortuneclock.com
 free-spin.club
 free-spin.vip
+freebitco.in
+freeslotshub.com
 freespin.com
 freespinfun.com
 freespinpro.com
@@ -302,6 +305,7 @@ goldencrowncasino3.com
 goldencrowncasino4.com
 goldencrowncasino5.com
 goldencrowncasino6.com
+goldencrowncasino7.com
 goldenladycasino.com
 goldenlion.bet
 goldenpokies.com
@@ -401,6 +405,7 @@ jackpotjill.live
 jackpotjill.me
 jackpotjill.net
 jackpotjill.online
+jackpotjill.org
 jackpotjill.vip
 jackpotjill1.com
 jackpotjillvip.com
@@ -427,6 +432,7 @@ johnniekashkings.info
 johnniekashkings.live
 johnniekashkings.net
 johnniekashkings.online
+johnniekashkingscasino.com
 johnvegascasino.com
 johnvegascasino22.com
 jokaviproom.club
@@ -443,6 +449,7 @@ joocasino.com
 joocasino24.com
 joocasinos.com
 joocasinos2.com
+joocasinos3.com
 joocasinos4.com
 joocasinos5.com
 juicystakes.eu
@@ -527,8 +534,10 @@ lukki77.com
 megaslot.io
 miraxcasino.com
 miraxcasino1.com
+miraxcasino10.com
 mrpacho1.com
 muchovegascasino.com
+myempire1.com
 n1bet.com
 n1bet2.com
 n1bet3.com
@@ -547,6 +556,7 @@ neospin1.com
 neospin2.com
 neospin3.com
 neospin4.com
+neospin5.com
 newblackdiamond.com
 newfairgo.com
 newplanet7.com
@@ -563,6 +573,7 @@ nordicasino.com
 olympia.casino
 olympia2.casino
 oneplanet7.com
+online-aussie-casino.com
 online-casinos-australia.com
 onlinecasinoaustralian.com
 onlinekingschance.com
@@ -573,6 +584,7 @@ oshi3.io
 ozbet88au.com
 ozwin.casino
 ozwin.games
+ozwinau.com
 ozwinaud.com
 ozwincasino-au.com
 ozwincasino.com
@@ -585,6 +597,7 @@ p75670.com
 p77650.com
 paradisoroom.com
 parimatchwin.com
+payid-gambler.com
 payidpokies.com
 planet7app.com
 planet7go.com
@@ -614,6 +627,7 @@ playblackdiamondcasino.com
 playcroco.casino
 playcroco.club
 playcroco.com
+playcroco.games
 playcrocoaussiecasino.com
 playcrococasino.games
 playfairgo.com
@@ -639,6 +653,7 @@ pokiemate47.com
 pokiemate531.com
 pokiemate877.com
 pokiemate922.com
+pokienations.com
 pokieplace.com
 pokieplace2.com
 pokieplace3.com
@@ -711,6 +726,7 @@ reelsofjoy.com
 reelsofjoy.net
 reelsofjoy.online
 reelsofjoy.org
+reelsofjoycasino.online
 reeltastic.com
 registeramo.com
 richardcasino3.com
@@ -725,12 +741,14 @@ richcasinogames.com
 richcasinovip.com
 richpalms.com
 richpalmspromo.com
+rickycasino.com
 rickycasino1.com
 rickycasino2.com
 rickycasino4.com
 rickycasino5.com
 rickycasino6.com
 rickycasino7.com
+rickycasino8.com
 ripper-casino.games
 ripper-pokies.com
 ripper.games
@@ -762,9 +780,11 @@ rockwin.io
 rockwin1.io
 rockwin2.io
 rockwin3.io
+rockwin4.io
 rollingslots08.com
 rollingslots15.com
 rollingslots7.com
+rollxo.com
 roocasino.com
 roocasino249.com
 roocasino264.com
@@ -788,6 +808,7 @@ royalreels2.com
 royalreels3.com
 royalreels4.com
 royalreels5.com
+royalreels6.com
 rp.casino
 sector777.com
 sector777.info
@@ -801,6 +822,7 @@ skycrown5.com
 skycrown6.com
 skycrown7.com
 skycrown8.com
+skycrown9.com
 slotastic.com
 slotman.com
 slotozen.live
@@ -837,6 +859,7 @@ spinago.casino
 spinago.com
 spinago1.casino
 spinago1.com
+spinago10.casino
 spinago3.casino
 spinago4.casino
 spinago5.casino
@@ -885,6 +908,7 @@ thepokies1.net
 thepokies10.net
 thepokies102.net
 thepokies103.net
+thepokies104.net
 thepokies11.net
 thepokies12.net
 thepokies14.net
@@ -971,6 +995,7 @@ vipcasinorocket.com
 viperspin.casino
 viperspin.com
 viperspin.net
+viperspin.org
 vipspinsamurai.com
 wabo88.com
 wabo88.me
@@ -1015,6 +1040,7 @@ winportcasino.com
 winwardcasino.com
 winz.io
 wolfwinner.casino
+wolfwinner.co
 wolfwinner.com
 wolfwinner.info
 wolfwinner.net
@@ -1045,4 +1071,5 @@ zenithslots.com
 zetcasino1.com
 zeturf.com
 zoome1.casino
+zoome3.casino
 zotabet.com

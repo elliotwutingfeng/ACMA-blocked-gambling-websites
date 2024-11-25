@@ -110,6 +110,7 @@
 ||betibet.com^$all
 ||betonredstag.com^$all
 ||betroom24.com^$all
+||betsquare.com^$all
 ||betus.com.pa^$all
 ||bigredstag.com^$all
 ||bitdreams.com^$all
@@ -278,6 +279,8 @@
 ||fortuneclock.com^$all
 ||free-spin.club^$all
 ||free-spin.vip^$all
+||freebitco.in^$all
+||freeslotshub.com^$all
 ||freespin.com^$all
 ||freespinfun.com^$all
 ||freespinpro.com^$all
@@ -302,6 +305,7 @@
 ||goldencrowncasino4.com^$all
 ||goldencrowncasino5.com^$all
 ||goldencrowncasino6.com^$all
+||goldencrowncasino7.com^$all
 ||goldenladycasino.com^$all
 ||goldenlion.bet^$all
 ||goldenpokies.com^$all
@@ -401,6 +405,7 @@
 ||jackpotjill.me^$all
 ||jackpotjill.net^$all
 ||jackpotjill.online^$all
+||jackpotjill.org^$all
 ||jackpotjill.vip^$all
 ||jackpotjill1.com^$all
 ||jackpotjillvip.com^$all
@@ -427,6 +432,7 @@
 ||johnniekashkings.live^$all
 ||johnniekashkings.net^$all
 ||johnniekashkings.online^$all
+||johnniekashkingscasino.com^$all
 ||johnvegascasino.com^$all
 ||johnvegascasino22.com^$all
 ||jokaviproom.club^$all
@@ -443,6 +449,7 @@
 ||joocasino24.com^$all
 ||joocasinos.com^$all
 ||joocasinos2.com^$all
+||joocasinos3.com^$all
 ||joocasinos4.com^$all
 ||joocasinos5.com^$all
 ||juicystakes.eu^$all
@@ -527,8 +534,10 @@
 ||megaslot.io^$all
 ||miraxcasino.com^$all
 ||miraxcasino1.com^$all
+||miraxcasino10.com^$all
 ||mrpacho1.com^$all
 ||muchovegascasino.com^$all
+||myempire1.com^$all
 ||n1bet.com^$all
 ||n1bet2.com^$all
 ||n1bet3.com^$all
@@ -547,6 +556,7 @@
 ||neospin2.com^$all
 ||neospin3.com^$all
 ||neospin4.com^$all
+||neospin5.com^$all
 ||newblackdiamond.com^$all
 ||newfairgo.com^$all
 ||newplanet7.com^$all
@@ -563,6 +573,7 @@
 ||olympia.casino^$all
 ||olympia2.casino^$all
 ||oneplanet7.com^$all
+||online-aussie-casino.com^$all
 ||online-casinos-australia.com^$all
 ||onlinecasinoaustralian.com^$all
 ||onlinekingschance.com^$all
@@ -573,6 +584,7 @@
 ||ozbet88au.com^$all
 ||ozwin.casino^$all
 ||ozwin.games^$all
+||ozwinau.com^$all
 ||ozwinaud.com^$all
 ||ozwincasino-au.com^$all
 ||ozwincasino.com^$all
@@ -585,6 +597,7 @@
 ||p77650.com^$all
 ||paradisoroom.com^$all
 ||parimatchwin.com^$all
+||payid-gambler.com^$all
 ||payidpokies.com^$all
 ||planet7app.com^$all
 ||planet7go.com^$all
@@ -614,6 +627,7 @@
 ||playcroco.casino^$all
 ||playcroco.club^$all
 ||playcroco.com^$all
+||playcroco.games^$all
 ||playcrocoaussiecasino.com^$all
 ||playcrococasino.games^$all
 ||playfairgo.com^$all
@@ -639,6 +653,7 @@
 ||pokiemate531.com^$all
 ||pokiemate877.com^$all
 ||pokiemate922.com^$all
+||pokienations.com^$all
 ||pokieplace.com^$all
 ||pokieplace2.com^$all
 ||pokieplace3.com^$all
@@ -711,6 +726,7 @@
 ||reelsofjoy.net^$all
 ||reelsofjoy.online^$all
 ||reelsofjoy.org^$all
+||reelsofjoycasino.online^$all
 ||reeltastic.com^$all
 ||registeramo.com^$all
 ||richardcasino3.com^$all
@@ -725,12 +741,14 @@
 ||richcasinovip.com^$all
 ||richpalms.com^$all
 ||richpalmspromo.com^$all
+||rickycasino.com^$all
 ||rickycasino1.com^$all
 ||rickycasino2.com^$all
 ||rickycasino4.com^$all
 ||rickycasino5.com^$all
 ||rickycasino6.com^$all
 ||rickycasino7.com^$all
+||rickycasino8.com^$all
 ||ripper-casino.games^$all
 ||ripper-pokies.com^$all
 ||ripper.games^$all
@@ -762,9 +780,11 @@
 ||rockwin1.io^$all
 ||rockwin2.io^$all
 ||rockwin3.io^$all
+||rockwin4.io^$all
 ||rollingslots08.com^$all
 ||rollingslots15.com^$all
 ||rollingslots7.com^$all
+||rollxo.com^$all
 ||roocasino.com^$all
 ||roocasino249.com^$all
 ||roocasino264.com^$all
@@ -788,6 +808,7 @@
 ||royalreels3.com^$all
 ||royalreels4.com^$all
 ||royalreels5.com^$all
+||royalreels6.com^$all
 ||rp.casino^$all
 ||sector777.com^$all
 ||sector777.info^$all
@@ -801,6 +822,7 @@
 ||skycrown6.com^$all
 ||skycrown7.com^$all
 ||skycrown8.com^$all
+||skycrown9.com^$all
 ||slotastic.com^$all
 ||slotman.com^$all
 ||slotozen.live^$all
@@ -837,6 +859,7 @@
 ||spinago.com^$all
 ||spinago1.casino^$all
 ||spinago1.com^$all
+||spinago10.casino^$all
 ||spinago3.casino^$all
 ||spinago4.casino^$all
 ||spinago5.casino^$all
@@ -885,6 +908,7 @@
 ||thepokies10.net^$all
 ||thepokies102.net^$all
 ||thepokies103.net^$all
+||thepokies104.net^$all
 ||thepokies11.net^$all
 ||thepokies12.net^$all
 ||thepokies14.net^$all
@@ -971,6 +995,7 @@
 ||viperspin.casino^$all
 ||viperspin.com^$all
 ||viperspin.net^$all
+||viperspin.org^$all
 ||vipspinsamurai.com^$all
 ||wabo88.com^$all
 ||wabo88.me^$all
@@ -1015,6 +1040,7 @@
 ||winwardcasino.com^$all
 ||winz.io^$all
 ||wolfwinner.casino^$all
+||wolfwinner.co^$all
 ||wolfwinner.com^$all
 ||wolfwinner.info^$all
 ||wolfwinner.net^$all
@@ -1045,4 +1071,5 @@
 ||zetcasino1.com^$all
 ||zeturf.com^$all
 ||zoome1.casino^$all
+||zoome3.casino^$all
 ||zotabet.com^$all

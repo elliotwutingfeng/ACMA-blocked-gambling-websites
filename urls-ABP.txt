@@ -44,6 +44,7 @@
 ||7bitcasino.com^
 ||7bitcasino14.com^
 ||7bitcasino8.com^
+||7bitcasino88.com^
 ||7bitcasino9.com^
 ||7reels.com^
 ||877play.com^
@@ -104,6 +105,7 @@
 ||baocasino.com^
 ||betandplay.com^
 ||betandplay1.com^
+||betandplay2.com^
 ||betandplay3.com^
 ||betandplay4.com^
 ||betchain.com^
@@ -233,6 +235,7 @@
 ||dingoo-casinoo.net^
 ||dinkumpokies.com^
 ||dundeeslots.com^
+||eddyvegas.com^
 ||emu-casino.com^
 ||emucasino.com^
 ||excitewin.com^
@@ -396,6 +399,7 @@
 ||ignitionpoker.net.lv^
 ||ilucki.com^
 ||iluckicasino.com^
+||internetpokies.org^
 ||iplanet7.com^
 ||jackpotjill.club^
 ||jackpotjill.co^
@@ -412,6 +416,7 @@
 ||jackpotjillvip.net^
 ||jeetcity4.com^
 ||jeetcity5.com^
+||jeetcity6.com^
 ||jet.casino^
 ||joefortune.com^
 ||joefortune.com.lv^
@@ -445,6 +450,7 @@
 ||jokaviproom.online^
 ||jokaviproom.org^
 ||jokaviproom.vip^
+||jokaviproom1.com^
 ||joocasino.com^
 ||joocasino24.com^
 ||joocasinos.com^
@@ -472,10 +478,13 @@
 ||kingbillywin.com^
 ||kingbillywin1.com^
 ||kingbillywin10.com^
+||kingbillywin18.com^
+||kingbillywin19.com^
 ||kingbillywin2.com^
 ||kingbillywin6.com^
 ||kingbillywin7.com^
 ||kingbillywin9.com^
+||kingjohnnie.club^
 ||kingjohnnie.com^
 ||kingjohnnie.info^
 ||kingjohnnie.live^
@@ -503,6 +512,7 @@
 ||levelupcasino.com^
 ||levelupcasino1.com^
 ||levelupcasino10.com^
+||levelupcasino11.com^
 ||levelupcasino2.com^
 ||levelupcasino3.com^
 ||levelupcasino4.com^
@@ -520,7 +530,9 @@
 ||luckydreams77.com^
 ||luckydreams8.com^
 ||luckyelfcasino.com^
+||luckyfriends.com^
 ||luckyhunter.com^
+||luckyones.com^
 ||luckyredstag.com^
 ||luckystar.io^
 ||luckystar1.io^
@@ -535,12 +547,15 @@
 ||miraxcasino.com^
 ||miraxcasino1.com^
 ||miraxcasino10.com^
+||moonwin4.com^
+||moonwin5.com^
 ||mrpacho1.com^
 ||muchovegascasino.com^
 ||myempire1.com^
 ||n1bet.com^
 ||n1bet2.com^
 ||n1bet3.com^
+||n1bet4.com^
 ||natiocasino.com^
 ||natiocasino1.com^
 ||natiocasino2.com^
@@ -589,6 +604,7 @@
 ||ozwincasino-au.com^
 ||ozwincasino.com^
 ||ozwingames.com^
+||ozwinspins.com^
 ||p71110.com^
 ||p73210.com^
 ||p73450.com^
@@ -660,6 +676,8 @@
 ||pokies.bet^
 ||pokies.ch^
 ||pokies.com^
+||pokies.info^
+||pokies777.bet^
 ||pokiesinuptown.com^
 ||pokieslab.com^
 ||pokieslab.info^
@@ -730,6 +748,7 @@
 ||reeltastic.com^
 ||registeramo.com^
 ||richardcasino3.com^
+||richardcasino4.com^
 ||richardcasino7.com^
 ||richcasino.com^
 ||richcasino1.com^
@@ -763,6 +782,8 @@
 ||rocketplay13.com^
 ||rocketplay14.com^
 ||rocketplay15.com^
+||rocketplay16.com^
+||rocketplay19.com^
 ||rocketplay2.com^
 ||rocketplay25.com^
 ||rocketplay3.com^
@@ -816,6 +837,7 @@
 ||sgcasino.com^
 ||skycrown.com^
 ||skycrown1.com^
+||skycrown10.com^
 ||skycrown2.com^
 ||skycrown4.com^
 ||skycrown5.com^
@@ -825,6 +847,8 @@
 ||skycrown9.com^
 ||slotastic.com^
 ||slotman.com^
+||slotozen.bet^
+||slotozen.com^
 ||slotozen.live^
 ||slotsberlin.com^
 ||slotsberlin1.com^
@@ -839,9 +863,11 @@
 ||slotsgallery.com^
 ||slotsgallery1.com^
 ||slotsgallery2.com^
+||slotsgallery3.com^
 ||slotsofwins.com^
 ||slotspalace1.com^
 ||slotspalace5.com^
+||slottie.club^
 ||slotvibe.com^
 ||slotvibe20.com^
 ||slotvibe21.com^
@@ -871,10 +897,13 @@
 ||spinoasis.com^
 ||spinsamurai.com^
 ||spinsamurai1.com^
+||spinsamurai11.com^
 ||spinsamurai2.com^
 ||spinsamurai25.com^
 ||spinsamurai30.com^
 ||spinsamurai6.com^
+||spinsup.com^
+||spinsup2.com^
 ||spintropolis.com^
 ||sportaza.com^
 ||sportaza2.com^
@@ -883,6 +912,7 @@
 ||staycasino.com^
 ||staycasino.live^
 ||staycasino7.com^
+||staycasino8.com^
 ||stellarspins.com^
 ||stellarspins.io^
 ||stellarspins.live^
@@ -909,6 +939,7 @@
 ||thepokies102.net^
 ||thepokies103.net^
 ||thepokies104.net^
+||thepokies105.net^
 ||thepokies11.net^
 ||thepokies12.net^
 ||thepokies14.net^

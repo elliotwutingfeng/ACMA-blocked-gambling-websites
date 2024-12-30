@@ -44,6 +44,7 @@
 ||7bitcasino.com^$all
 ||7bitcasino14.com^$all
 ||7bitcasino8.com^$all
+||7bitcasino88.com^$all
 ||7bitcasino9.com^$all
 ||7reels.com^$all
 ||877play.com^$all
@@ -104,6 +105,7 @@
 ||baocasino.com^$all
 ||betandplay.com^$all
 ||betandplay1.com^$all
+||betandplay2.com^$all
 ||betandplay3.com^$all
 ||betandplay4.com^$all
 ||betchain.com^$all
@@ -233,6 +235,7 @@
 ||dingoo-casinoo.net^$all
 ||dinkumpokies.com^$all
 ||dundeeslots.com^$all
+||eddyvegas.com^$all
 ||emu-casino.com^$all
 ||emucasino.com^$all
 ||excitewin.com^$all
@@ -396,6 +399,7 @@
 ||ignitionpoker.net.lv^$all
 ||ilucki.com^$all
 ||iluckicasino.com^$all
+||internetpokies.org^$all
 ||iplanet7.com^$all
 ||jackpotjill.club^$all
 ||jackpotjill.co^$all
@@ -412,6 +416,7 @@
 ||jackpotjillvip.net^$all
 ||jeetcity4.com^$all
 ||jeetcity5.com^$all
+||jeetcity6.com^$all
 ||jet.casino^$all
 ||joefortune.com^$all
 ||joefortune.com.lv^$all
@@ -445,6 +450,7 @@
 ||jokaviproom.online^$all
 ||jokaviproom.org^$all
 ||jokaviproom.vip^$all
+||jokaviproom1.com^$all
 ||joocasino.com^$all
 ||joocasino24.com^$all
 ||joocasinos.com^$all
@@ -472,10 +478,13 @@
 ||kingbillywin.com^$all
 ||kingbillywin1.com^$all
 ||kingbillywin10.com^$all
+||kingbillywin18.com^$all
+||kingbillywin19.com^$all
 ||kingbillywin2.com^$all
 ||kingbillywin6.com^$all
 ||kingbillywin7.com^$all
 ||kingbillywin9.com^$all
+||kingjohnnie.club^$all
 ||kingjohnnie.com^$all
 ||kingjohnnie.info^$all
 ||kingjohnnie.live^$all
@@ -503,6 +512,7 @@
 ||levelupcasino.com^$all
 ||levelupcasino1.com^$all
 ||levelupcasino10.com^$all
+||levelupcasino11.com^$all
 ||levelupcasino2.com^$all
 ||levelupcasino3.com^$all
 ||levelupcasino4.com^$all
@@ -520,7 +530,9 @@
 ||luckydreams77.com^$all
 ||luckydreams8.com^$all
 ||luckyelfcasino.com^$all
+||luckyfriends.com^$all
 ||luckyhunter.com^$all
+||luckyones.com^$all
 ||luckyredstag.com^$all
 ||luckystar.io^$all
 ||luckystar1.io^$all
@@ -535,12 +547,15 @@
 ||miraxcasino.com^$all
 ||miraxcasino1.com^$all
 ||miraxcasino10.com^$all
+||moonwin4.com^$all
+||moonwin5.com^$all
 ||mrpacho1.com^$all
 ||muchovegascasino.com^$all
 ||myempire1.com^$all
 ||n1bet.com^$all
 ||n1bet2.com^$all
 ||n1bet3.com^$all
+||n1bet4.com^$all
 ||natiocasino.com^$all
 ||natiocasino1.com^$all
 ||natiocasino2.com^$all
@@ -589,6 +604,7 @@
 ||ozwincasino-au.com^$all
 ||ozwincasino.com^$all
 ||ozwingames.com^$all
+||ozwinspins.com^$all
 ||p71110.com^$all
 ||p73210.com^$all
 ||p73450.com^$all
@@ -660,6 +676,8 @@
 ||pokies.bet^$all
 ||pokies.ch^$all
 ||pokies.com^$all
+||pokies.info^$all
+||pokies777.bet^$all
 ||pokiesinuptown.com^$all
 ||pokieslab.com^$all
 ||pokieslab.info^$all
@@ -730,6 +748,7 @@
 ||reeltastic.com^$all
 ||registeramo.com^$all
 ||richardcasino3.com^$all
+||richardcasino4.com^$all
 ||richardcasino7.com^$all
 ||richcasino.com^$all
 ||richcasino1.com^$all
@@ -763,6 +782,8 @@
 ||rocketplay13.com^$all
 ||rocketplay14.com^$all
 ||rocketplay15.com^$all
+||rocketplay16.com^$all
+||rocketplay19.com^$all
 ||rocketplay2.com^$all
 ||rocketplay25.com^$all
 ||rocketplay3.com^$all
@@ -816,6 +837,7 @@
 ||sgcasino.com^$all
 ||skycrown.com^$all
 ||skycrown1.com^$all
+||skycrown10.com^$all
 ||skycrown2.com^$all
 ||skycrown4.com^$all
 ||skycrown5.com^$all
@@ -825,6 +847,8 @@
 ||skycrown9.com^$all
 ||slotastic.com^$all
 ||slotman.com^$all
+||slotozen.bet^$all
+||slotozen.com^$all
 ||slotozen.live^$all
 ||slotsberlin.com^$all
 ||slotsberlin1.com^$all
@@ -839,9 +863,11 @@
 ||slotsgallery.com^$all
 ||slotsgallery1.com^$all
 ||slotsgallery2.com^$all
+||slotsgallery3.com^$all
 ||slotsofwins.com^$all
 ||slotspalace1.com^$all
 ||slotspalace5.com^$all
+||slottie.club^$all
 ||slotvibe.com^$all
 ||slotvibe20.com^$all
 ||slotvibe21.com^$all
@@ -871,10 +897,13 @@
 ||spinoasis.com^$all
 ||spinsamurai.com^$all
 ||spinsamurai1.com^$all
+||spinsamurai11.com^$all
 ||spinsamurai2.com^$all
 ||spinsamurai25.com^$all
 ||spinsamurai30.com^$all
 ||spinsamurai6.com^$all
+||spinsup.com^$all
+||spinsup2.com^$all
 ||spintropolis.com^$all
 ||sportaza.com^$all
 ||sportaza2.com^$all
@@ -883,6 +912,7 @@
 ||staycasino.com^$all
 ||staycasino.live^$all
 ||staycasino7.com^$all
+||staycasino8.com^$all
 ||stellarspins.com^$all
 ||stellarspins.io^$all
 ||stellarspins.live^$all
@@ -909,6 +939,7 @@
 ||thepokies102.net^$all
 ||thepokies103.net^$all
 ||thepokies104.net^$all
+||thepokies105.net^$all
 ||thepokies11.net^$all
 ||thepokies12.net^$all
 ||thepokies14.net^$all

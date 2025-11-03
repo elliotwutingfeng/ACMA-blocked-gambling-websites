@@ -11,14 +11,7 @@ import re
 import socket
 
 import tldextract
-
-from bs4 import BeautifulSoup
-from bs4.element import NavigableString
-from selenium.webdriver import Chrome
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.common.exceptions import TimeoutException
-
+import requests
 
 logger = logging.getLogger()
 logging.basicConfig(level=logging.INFO, format="%(message)s")
@@ -53,30 +46,6 @@ def clean_url(url: str) -> str:
     return removed_http
 
 
-def get_page(endpoint: str) -> str:
-    """Extract HTML source from `endpoint`
-
-    Args:
-        endpoint (str): Website URL.
-
-    Returns:
-        str: HTML source of `endpoint`.
-    """
-    options = Options()
-    options.add_argument("--headless")
-    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.3"
-    options.add_argument(f"--user-agent={user_agent}")
-    browser = Chrome(options=options)
-
-    try:
-        browser.get(endpoint)
-        WebDriverWait(browser, 30)
-        html_doc = browser.page_source
-    except TimeoutException:
-        return None
-    return html_doc
-
-
 def extract_domains(endpoint: str) -> set[str]:
     """Extract domains from `endpoint`
 
@@ -86,24 +55,12 @@ def extract_domains(endpoint: str) -> set[str]:
     Returns:
         set[str]: Domains extracted from `endpoint`.
     """
-    html_doc = get_page(endpoint)
-    soup = BeautifulSoup(html_doc, "html.parser")
-    domains: set[str] = set()
-    for paragraph in soup.find_all("p"):
-        if not paragraph.find("br"):
-            continue
-        domains.update(
-            clean_url(elem.text)
-            for elem in paragraph.contents
-            if isinstance(elem, NavigableString)
-        )
-    return domains
+    urls = requests.get(endpoint, timeout=30).json()
+    return {clean_url(url) for url in urls}
 
 
 if __name__ == "__main__":
-    urls: set[str] = extract_domains(
-        "https://www.acma.gov.au/blocked-gambling-websites"
-    )
+    urls: set[str] = extract_domains("https://backend.acma.gov.au/gmbl/api/Domain")
     ips: set[str] = set()
     non_ips: set[str] = set()
     fqdns: set[str] = set()
@@ -114,7 +71,7 @@ if __name__ == "__main__":
     for url in urls:
         res = tldextract.extract(url)
         registered_domain, domain, fqdn = (
-            res.registered_domain,
+            res.top_domain_under_public_suffix,
             res.domain,
             res.fqdn,
         )

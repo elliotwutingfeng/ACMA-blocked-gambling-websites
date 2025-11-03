@@ -25,28 +25,7 @@ The URLs in this blocklist are released by the **Australian Communications and M
 
 ## Requirements
 
-- Python 3.12+
-
-## Setup instructions
-
-`git clone` and `cd` into the project directory, then run the following
-
-```bash
-python3 -m venv venv
-venv/bin/python3 -m pip install --upgrade pip
-venv/bin/python3 -m pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-venv/bin/python3 scraper.py
-```
-
-## Libraries/Frameworks used
-
-- [Selenium](https://selenium.dev)
-- [tldextract](https://github.com/john-kurkowski/tldextract)
+- Python 3.14+
 
 &nbsp;
 

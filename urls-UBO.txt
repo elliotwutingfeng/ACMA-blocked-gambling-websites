@@ -35,6 +35,7 @@
 ||4clockfortune.com^$all
 ||50crowns.com^$all
 ||50crowns1.com^$all
+||5gringos-0463.com^$all
 ||5gringos1.com^$all
 ||5gringos2.com^$all
 ||616fun.com^$all
@@ -107,6 +108,8 @@
 ||auwin.co^$all
 ||axecasino.com^$all
 ||azurehand.com^$all
+||b1tstarz8.com^$all
+||b1tstarz9.com^$all
 ||bambet.com^$all
 ||baocasino.com^$all
 ||bestaussiepokies.com^$all
@@ -185,6 +188,7 @@
 ||burancasino4.com^$all
 ||cabarino.com^$all
 ||candyland.casino^$all
+||cashed-3141.com^$all
 ||casinfortune1.com^$all
 ||casinia1.com^$all
 ||casinia3.com^$all
@@ -226,6 +230,7 @@
 ||casinorocket21.com^$all
 ||casinorocket32.com^$all
 ||casinorocket37.com^$all
+||casinorocket4.com^$all
 ||casinorocket5.com^$all
 ||casinorocket76.com^$all
 ||casinorocket8.com^$all
@@ -277,6 +282,7 @@
 ||fairgo-wins.com^$all
 ||fairgo.casino^$all
 ||fairgo.co^$all
+||fairgo.com^$all
 ||fairgo4u.com^$all
 ||fairgoau.com^$all
 ||fairgoaud.com^$all
@@ -286,16 +292,21 @@
 ||fairgocasinoau.com^$all
 ||fairgocasinoaud.com^$all
 ||fairgocasinobonuses.com^$all
+||fairgocasinokev.com^$all
 ||fairgocasinowins.com^$all
 ||fairgoforyou.com^$all
 ||fairgofun.com^$all
 ||fairgogames.com^$all
 ||fairgojackpots.com^$all
+||fairgokev.com^$all
 ||fairgolive.com^$all
+||fairgomail.com^$all
 ||fairgonow.com^$all
 ||fairgoonline.com^$all
 ||fairgoplus.com^$all
 ||fairgoslots.com^$all
+||fairgospins.com^$all
+||fairgowin.com^$all
 ||fairgowins.com^$all
 ||fairgowithkev.com^$all
 ||fastpay-casino.com^$all
@@ -423,6 +434,7 @@
 ||helpgwcasino.com^$all
 ||helppokiemate.com^$all
 ||helppokiespins.com^$all
+||helppokiespins1.com^$all
 ||helppokiez.com^$all
 ||helproocasino.com^$all
 ||helpwagerbeat.com^$all
@@ -544,6 +556,7 @@
 ||katsubet1.com^$all
 ||katsubet10.com^$all
 ||katsubet12.com^$all
+||kevinspokies.com^$all
 ||kimvegas.com^$all
 ||kingbillycasino.com^$all
 ||kingbillycasino12.com^$all
@@ -566,6 +579,7 @@
 ||kingjohnnie.net^$all
 ||kingjohnnie.online^$all
 ||kingjohnnie1.com^$all
+||kingmaker.com^$all
 ||kingschance.com^$all
 ||koalaroyal.com^$all
 ||koalasfairgo.com^$all
@@ -673,10 +687,12 @@
 ||nationalcasino.com^$all
 ||neospin.com^$all
 ||neospin1.com^$all
+||neospin10.com^$all
 ||neospin2.com^$all
 ||neospin3.com^$all
 ||neospin4.com^$all
 ||neospin5.com^$all
+||neospin66.com^$all
 ||neospin7.com^$all
 ||neospin8.com^$all
 ||newblackdiamond.com^$all
@@ -686,6 +702,7 @@
 ||newtrueblue.com^$all
 ||newuptownpokies.com^$all
 ||newvegas.com^$all
+||next2go-au.com^$all
 ||ninjaspins.com^$all
 ||ninjaspins72.com^$all
 ||nodepositfriend.com^$all
@@ -767,6 +784,7 @@
 ||playfina1.com^$all
 ||playfina3.com^$all
 ||playfina5.com^$all
+||playfina6.com^$all
 ||playozwin.com^$all
 ||playp7oz.com^$all
 ||playragingbull.com^$all
@@ -774,6 +792,7 @@
 ||playtrueblue.com^$all
 ||playzilla1.com^$all
 ||playzilla3.com^$all
+||playzilla9.com^$all
 ||pokie-surf.com^$all
 ||pokieisland.com^$all
 ||pokieisland531.com^$all
@@ -830,6 +849,7 @@
 ||pokizino.com^$all
 ||pokizino.net^$all
 ||polymarket.com^$all
+||posido823.com^$all
 ||powbet.com^$all
 ||queenspins.com^$all
 ||queenspins1.com^$all
@@ -955,6 +975,7 @@
 ||rollxo2.com^$all
 ||rollxo3.com^$all
 ||rollxo4.com^$all
+||rollxo5.com^$all
 ||roocasino.com^$all
 ||roocasino249.com^$all
 ||roocasino264.com^$all
@@ -1069,6 +1090,7 @@
 ||spinbetter.com^$all
 ||spinbit.com^$all
 ||spinfever1.com^$all
+||spinight-1265.com^$all
 ||spinit2.com^$all
 ||spinoasis.com^$all
 ||spinsamurai.com^$all
@@ -1084,6 +1106,7 @@
 ||spinsup.com^$all
 ||spinsup1.com^$all
 ||spinsup2.com^$all
+||spinsy1.com^$all
 ||spintropolis.com^$all
 ||spiritcasino.com^$all
 ||sportaza.com^$all
@@ -1133,6 +1156,7 @@
 ||thepokies11.net^$all
 ||thepokies111.net^$all
 ||thepokies114.net^$all
+||thepokies115.net^$all
 ||thepokies12.net^$all
 ||thepokies14.net^$all
 ||thepokies15.net^$all
@@ -1171,10 +1195,12 @@
 ||thepokies89.net^$all
 ||thepokies9.net^$all
 ||thepokies90.net^$all
+||thepokiesreviews.net^$all
 ||thunderpick.io^$all
 ||topaussiecasinos.com^$all
 ||topaussiepokies.org^$all
 ||topbet.eu^$all
+||topionetworks.com^$all
 ||toptrueblue.com^$all
 ||true131.com^$all
 ||true143.com^$all
@@ -1283,6 +1309,7 @@
 ||winspirit1.com^$all
 ||winwardcasino.com^$all
 ||winz.io^$all
+||wizbet.app^$all
 ||wolfwinner.casino^$all
 ||wolfwinner.co^$all
 ||wolfwinner.com^$all
@@ -1321,6 +1348,8 @@
 ||zoome.casino^$all
 ||zoome1.casino^$all
 ||zoome10.casino^$all
+||zoome12.casino^$all
+||zoome16.casino^$all
 ||zoome3.casino^$all
 ||zoome6.casino^$all
 ||zoome9.casino^$all

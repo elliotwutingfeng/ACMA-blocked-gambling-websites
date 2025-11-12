@@ -35,6 +35,7 @@
 *://*.4clockfortune.com/*
 *://*.50crowns.com/*
 *://*.50crowns1.com/*
+*://*.5gringos-0463.com/*
 *://*.5gringos1.com/*
 *://*.5gringos2.com/*
 *://*.616fun.com/*
@@ -107,6 +108,8 @@
 *://*.auwin.co/*
 *://*.axecasino.com/*
 *://*.azurehand.com/*
+*://*.b1tstarz8.com/*
+*://*.b1tstarz9.com/*
 *://*.bambet.com/*
 *://*.baocasino.com/*
 *://*.bestaussiepokies.com/*
@@ -185,6 +188,7 @@
 *://*.burancasino4.com/*
 *://*.cabarino.com/*
 *://*.candyland.casino/*
+*://*.cashed-3141.com/*
 *://*.casinfortune1.com/*
 *://*.casinia1.com/*
 *://*.casinia3.com/*
@@ -225,6 +229,7 @@
 *://*.casinorocket21.com/*
 *://*.casinorocket32.com/*
 *://*.casinorocket37.com/*
+*://*.casinorocket4.com/*
 *://*.casinorocket5.com/*
 *://*.casinorocket76.com/*
 *://*.casinorocket8.com/*
@@ -277,6 +282,7 @@
 *://*.fairgo-wins.com/*
 *://*.fairgo.casino/*
 *://*.fairgo.co/*
+*://*.fairgo.com/*
 *://*.fairgo4u.com/*
 *://*.fairgoau.com/*
 *://*.fairgoaud.com/*
@@ -286,16 +292,21 @@
 *://*.fairgocasinoau.com/*
 *://*.fairgocasinoaud.com/*
 *://*.fairgocasinobonuses.com/*
+*://*.fairgocasinokev.com/*
 *://*.fairgocasinowins.com/*
 *://*.fairgoforyou.com/*
 *://*.fairgofun.com/*
 *://*.fairgogames.com/*
 *://*.fairgojackpots.com/*
+*://*.fairgokev.com/*
 *://*.fairgolive.com/*
+*://*.fairgomail.com/*
 *://*.fairgonow.com/*
 *://*.fairgoonline.com/*
 *://*.fairgoplus.com/*
 *://*.fairgoslots.com/*
+*://*.fairgospins.com/*
+*://*.fairgowin.com/*
 *://*.fairgowins.com/*
 *://*.fairgowithkev.com/*
 *://*.fastpay-casino.com/*
@@ -423,6 +434,7 @@
 *://*.helpgwcasino.com/*
 *://*.helppokiemate.com/*
 *://*.helppokiespins.com/*
+*://*.helppokiespins1.com/*
 *://*.helppokiez.com/*
 *://*.helproocasino.com/*
 *://*.helpwagerbeat.com/*
@@ -542,6 +554,7 @@
 *://*.katsubet1.com/*
 *://*.katsubet10.com/*
 *://*.katsubet12.com/*
+*://*.kevinspokies.com/*
 *://*.kimvegas.com/*
 *://*.kingbillycasino.com/*
 *://*.kingbillycasino12.com/*
@@ -564,6 +577,7 @@
 *://*.kingjohnnie.net/*
 *://*.kingjohnnie.online/*
 *://*.kingjohnnie1.com/*
+*://*.kingmaker.com/*
 *://*.kingschance.com/*
 *://*.koalaroyal.com/*
 *://*.koalasfairgo.com/*
@@ -671,10 +685,12 @@
 *://*.nationalcasino.com/*
 *://*.neospin.com/*
 *://*.neospin1.com/*
+*://*.neospin10.com/*
 *://*.neospin2.com/*
 *://*.neospin3.com/*
 *://*.neospin4.com/*
 *://*.neospin5.com/*
+*://*.neospin66.com/*
 *://*.neospin7.com/*
 *://*.neospin8.com/*
 *://*.newblackdiamond.com/*
@@ -684,6 +700,7 @@
 *://*.newtrueblue.com/*
 *://*.newuptownpokies.com/*
 *://*.newvegas.com/*
+*://*.next2go-au.com/*
 *://*.ninjaspins.com/*
 *://*.ninjaspins72.com/*
 *://*.nodepositfriend.com/*
@@ -765,6 +782,7 @@
 *://*.playfina1.com/*
 *://*.playfina3.com/*
 *://*.playfina5.com/*
+*://*.playfina6.com/*
 *://*.playozwin.com/*
 *://*.playp7oz.com/*
 *://*.playragingbull.com/*
@@ -772,6 +790,7 @@
 *://*.playtrueblue.com/*
 *://*.playzilla1.com/*
 *://*.playzilla3.com/*
+*://*.playzilla9.com/*
 *://*.pokie-surf.com/*
 *://*.pokieisland.com/*
 *://*.pokieisland531.com/*
@@ -828,6 +847,7 @@
 *://*.pokizino.com/*
 *://*.pokizino.net/*
 *://*.polymarket.com/*
+*://*.posido823.com/*
 *://*.powbet.com/*
 *://*.queenspins.com/*
 *://*.queenspins1.com/*
@@ -953,6 +973,7 @@
 *://*.rollxo2.com/*
 *://*.rollxo3.com/*
 *://*.rollxo4.com/*
+*://*.rollxo5.com/*
 *://*.roocasino.com/*
 *://*.roocasino249.com/*
 *://*.roocasino264.com/*
@@ -1067,6 +1088,7 @@
 *://*.spinbetter.com/*
 *://*.spinbit.com/*
 *://*.spinfever1.com/*
+*://*.spinight-1265.com/*
 *://*.spinit2.com/*
 *://*.spinoasis.com/*
 *://*.spinsamurai.com/*
@@ -1082,6 +1104,7 @@
 *://*.spinsup.com/*
 *://*.spinsup1.com/*
 *://*.spinsup2.com/*
+*://*.spinsy1.com/*
 *://*.spintropolis.com/*
 *://*.spiritcasino.com/*
 *://*.sportaza.com/*
@@ -1131,6 +1154,7 @@
 *://*.thepokies11.net/*
 *://*.thepokies111.net/*
 *://*.thepokies114.net/*
+*://*.thepokies115.net/*
 *://*.thepokies12.net/*
 *://*.thepokies14.net/*
 *://*.thepokies15.net/*
@@ -1169,10 +1193,12 @@
 *://*.thepokies89.net/*
 *://*.thepokies9.net/*
 *://*.thepokies90.net/*
+*://*.thepokiesreviews.net/*
 *://*.thunderpick.io/*
 *://*.topaussiecasinos.com/*
 *://*.topaussiepokies.org/*
 *://*.topbet.eu/*
+*://*.topionetworks.com/*
 *://*.toptrueblue.com/*
 *://*.true131.com/*
 *://*.true143.com/*
@@ -1281,6 +1307,7 @@
 *://*.winspirit1.com/*
 *://*.winwardcasino.com/*
 *://*.winz.io/*
+*://*.wizbet.app/*
 *://*.wolfwinner.casino/*
 *://*.wolfwinner.co/*
 *://*.wolfwinner.com/*
@@ -1319,6 +1346,8 @@
 *://*.zoome.casino/*
 *://*.zoome1.casino/*
 *://*.zoome10.casino/*
+*://*.zoome12.casino/*
+*://*.zoome16.casino/*
 *://*.zoome3.casino/*
 *://*.zoome6.casino/*
 *://*.zoome9.casino/*

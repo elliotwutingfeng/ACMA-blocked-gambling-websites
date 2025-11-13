@@ -283,6 +283,7 @@
 *://*.fairgo.casino/*
 *://*.fairgo.co/*
 *://*.fairgo.com/*
+*://*.fairgo.info/*
 *://*.fairgo4u.com/*
 *://*.fairgoau.com/*
 *://*.fairgoaud.com/*
@@ -306,6 +307,7 @@
 *://*.fairgoplus.com/*
 *://*.fairgoslots.com/*
 *://*.fairgospins.com/*
+*://*.fairgovip.com/*
 *://*.fairgowin.com/*
 *://*.fairgowins.com/*
 *://*.fairgowithkev.com/*

@@ -283,6 +283,7 @@
 ||fairgo.casino^$all
 ||fairgo.co^$all
 ||fairgo.com^$all
+||fairgo.info^$all
 ||fairgo4u.com^$all
 ||fairgoau.com^$all
 ||fairgoaud.com^$all
@@ -306,6 +307,7 @@
 ||fairgoplus.com^$all
 ||fairgoslots.com^$all
 ||fairgospins.com^$all
+||fairgovip.com^$all
 ||fairgowin.com^$all
 ||fairgowins.com^$all
 ||fairgowithkev.com^$all

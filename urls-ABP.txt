@@ -34,6 +34,7 @@
 ||30playjonny32.com^
 ||3baocasino.com^
 ||3neon54.com^
+||43playjonny42.com^
 ||444true.com^
 ||475p7.com^
 ||4clockfortune.com^
@@ -57,6 +58,7 @@
 ||7bitcasino88.com^
 ||7bitcasino9.com^
 ||7reels.com^
+||7signs-2892.com^
 ||7wonaco3.com^
 ||877play.com^
 ||888true.com^
@@ -153,6 +155,7 @@
 ||betzillo3.com^
 ||betzillo4.com^
 ||betzillo5.com^
+||betzillo6.com^
 ||bigredstag.com^
 ||billybillion.com^
 ||bitdreams.com^
@@ -275,6 +278,7 @@
 ||cherry-gold.club^
 ||cherrygoldcasino.com^
 ||cherrygoldclub.com^
+||chromabet.org^
 ||cleobetra-3236.com^
 ||cleobetra2.com^
 ||cleopatracasino.com^
@@ -310,8 +314,12 @@
 ||dinkumpokies.com^
 ||divaspin-8253.com^
 ||divaspin-9966.com^
+||donbet.com^
+||donbet.net^
 ||dragons-lots.com^
 ||dundeeslots.com^
+||duospin-9008.com^
+||duospin.com^
 ||eddyvegas.com^
 ||emu-casino.com^
 ||emucasino.com^
@@ -344,6 +352,7 @@
 ||fairgocasinowins.com^
 ||fairgoforyou.com^
 ||fairgofun.com^
+||fairgogames.club^
 ||fairgogames.com^
 ||fairgojackpots.com^
 ||fairgokev.com^
@@ -403,10 +412,13 @@
 ||freespinfun.com^
 ||freespinpro.com^
 ||freespinz.com^
+||freshbet7.me^
 ||frumzi-0064.com^
 ||frumzi1.com^
 ||gambleonline.co^
 ||gametrueblue.com^
+||gemsl100.com^
+||gemslots1.com^
 ||getredstag.com^
 ||getslotcasino2.com^
 ||getslotcasino4.com^
@@ -558,6 +570,7 @@
 ||jackpotjill.net^
 ||jackpotjill.online^
 ||jackpotjill.org^
+||jackpotjill.shop^
 ||jackpotjill.site^
 ||jackpotjill.vip^
 ||jackpotjill.xyz^
@@ -568,6 +581,7 @@
 ||jackpotjillvip.live^
 ||jackpotjillvip.me^
 ||jackpotjillvip.net^
+||jacksclub.io^
 ||jeetcity.com^
 ||jeetcity10.com^
 ||jeetcity13.com^
@@ -717,6 +731,7 @@
 ||levelupcasino10.com^
 ||levelupcasino11.com^
 ||levelupcasino2.com^
+||levelupcasino23.com^
 ||levelupcasino3.com^
 ||levelupcasino30.com^
 ||levelupcasino35.com^
@@ -753,6 +768,7 @@
 ||luckystar.io^
 ||luckystar1.io^
 ||luckystar2.io^
+||luckystart.com^
 ||luckytigercasino.com^
 ||luckytigerpromo.com^
 ||luckywins.com^
@@ -819,6 +835,7 @@
 ||nationalcasino.com^
 ||nationalcasino.org^
 ||nationalcasinoau.com^
+||neonup.club^
 ||neospin.com^
 ||neospin1.com^
 ||neospin10.com^
@@ -970,6 +987,7 @@
 ||playzilla1.com^
 ||playzilla3.com^
 ||playzilla9.com^
+||pointsbetz.com^
 ||pokie-surf.com^
 ||pokieisland.com^
 ||pokieisland531.com^
@@ -1142,6 +1160,7 @@
 ||ripperspins.com^
 ||ripperwins.com^
 ||robinroo.com^
+||robycasino-3348.com^
 ||robycasino3.com^
 ||rocketplay-au.com^
 ||rocketplay.com^
@@ -1344,6 +1363,10 @@
 ||spinit3.com^
 ||spinoasis.com^
 ||spinozwin.com^
+||spinrise.com^
+||spinrise1.com^
+||spinrise3.com^
+||spinrise33.com^
 ||spinsamurai.com^
 ||spinsamurai1.com^
 ||spinsamurai11.com^
@@ -1538,16 +1561,19 @@
 ||vegasnow.com^
 ||vegastars.com^
 ||vegastars1.com^
+||vegastars10.com^
 ||vegastars2.com^
 ||vegastars3.com^
 ||vegastars5.com^
 ||vegastars7.com^
+||vegastars8.com^
 ||velobet.com^
 ||velvetspin.com^
 ||velvetspin.info^
 ||viggoslots.com^
 ||vigorspin.com^
 ||vigorspin.net^
+||vinylcasino.com^
 ||vipcasinorocket.com^
 ||viperspin.casino^
 ||viperspin.com^
@@ -1607,6 +1633,9 @@
 ||wildpokies8.com^
 ||wildpokies8.vip^
 ||wildpokiesasia.com^
+||wildsino-1243.com^
+||wildsino-6913.com^
+||wildsino6.com^
 ||wildtornado.casino^
 ||wildtornado12.casino^
 ||wildtornado77.casino^
@@ -1620,11 +1649,23 @@
 ||winozwin.com^
 ||winparadise.com^
 ||winportcasino.com^
+||wins-pirit.com^
+||wins-pirit.net^
 ||wins.io^
 ||winspinsamurai.com^
+||winspirit-au.com^
 ||winspirit.online^
 ||winspirit.team^
 ||winspirit1.com^
+||winspirit10.com^
+||winspirit3.com^
+||winspirit4.com^
+||winspirit5.com^
+||winspirit6.com^
+||winspirit7.com^
+||winspirit8.com^
+||winspirit9.com^
+||winsspirit.com^
 ||winwardcasino.com^
 ||winz.io^
 ||wizardofozwin.com^
@@ -1632,6 +1673,7 @@
 ||wolfwinner.casino^
 ||wolfwinner.co^
 ||wolfwinner.com^
+||wolfwinner.fun^
 ||wolfwinner.info^
 ||wolfwinner.me^
 ||wolfwinner.net^
@@ -1691,6 +1733,7 @@
 ||zoome10.casino^
 ||zoome12.casino^
 ||zoome16.casino^
+||zoome17.casino^
 ||zoome3.casino^
 ||zoome6.casino^
 ||zoome9.casino^

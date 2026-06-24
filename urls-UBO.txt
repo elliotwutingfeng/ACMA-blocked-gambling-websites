@@ -34,6 +34,7 @@
 ||30playjonny32.com^$all
 ||3baocasino.com^$all
 ||3neon54.com^$all
+||43playjonny42.com^$all
 ||444true.com^$all
 ||475p7.com^$all
 ||4clockfortune.com^$all
@@ -57,6 +58,7 @@
 ||7bitcasino88.com^$all
 ||7bitcasino9.com^$all
 ||7reels.com^$all
+||7signs-2892.com^$all
 ||7wonaco3.com^$all
 ||877play.com^$all
 ||888true.com^$all
@@ -153,6 +155,7 @@
 ||betzillo3.com^$all
 ||betzillo4.com^$all
 ||betzillo5.com^$all
+||betzillo6.com^$all
 ||bigredstag.com^$all
 ||billybillion.com^$all
 ||bitdreams.com^$all
@@ -275,6 +278,7 @@
 ||cherry-gold.club^$all
 ||cherrygoldcasino.com^$all
 ||cherrygoldclub.com^$all
+||chromabet.org^$all
 ||cleobetra-3236.com^$all
 ||cleobetra2.com^$all
 ||cleopatracasino.com^$all
@@ -310,8 +314,12 @@
 ||dinkumpokies.com^$all
 ||divaspin-8253.com^$all
 ||divaspin-9966.com^$all
+||donbet.com^$all
+||donbet.net^$all
 ||dragons-lots.com^$all
 ||dundeeslots.com^$all
+||duospin-9008.com^$all
+||duospin.com^$all
 ||eddyvegas.com^$all
 ||emu-casino.com^$all
 ||emucasino.com^$all
@@ -344,6 +352,7 @@
 ||fairgocasinowins.com^$all
 ||fairgoforyou.com^$all
 ||fairgofun.com^$all
+||fairgogames.club^$all
 ||fairgogames.com^$all
 ||fairgojackpots.com^$all
 ||fairgokev.com^$all
@@ -403,10 +412,13 @@
 ||freespinfun.com^$all
 ||freespinpro.com^$all
 ||freespinz.com^$all
+||freshbet7.me^$all
 ||frumzi-0064.com^$all
 ||frumzi1.com^$all
 ||gambleonline.co^$all
 ||gametrueblue.com^$all
+||gemsl100.com^$all
+||gemslots1.com^$all
 ||getredstag.com^$all
 ||getslotcasino2.com^$all
 ||getslotcasino4.com^$all
@@ -558,6 +570,7 @@
 ||jackpotjill.net^$all
 ||jackpotjill.online^$all
 ||jackpotjill.org^$all
+||jackpotjill.shop^$all
 ||jackpotjill.site^$all
 ||jackpotjill.vip^$all
 ||jackpotjill.xyz^$all
@@ -568,6 +581,7 @@
 ||jackpotjillvip.live^$all
 ||jackpotjillvip.me^$all
 ||jackpotjillvip.net^$all
+||jacksclub.io^$all
 ||jeetcity.com^$all
 ||jeetcity10.com^$all
 ||jeetcity13.com^$all
@@ -717,6 +731,7 @@
 ||levelupcasino10.com^$all
 ||levelupcasino11.com^$all
 ||levelupcasino2.com^$all
+||levelupcasino23.com^$all
 ||levelupcasino3.com^$all
 ||levelupcasino30.com^$all
 ||levelupcasino35.com^$all
@@ -753,6 +768,7 @@
 ||luckystar.io^$all
 ||luckystar1.io^$all
 ||luckystar2.io^$all
+||luckystart.com^$all
 ||luckytigercasino.com^$all
 ||luckytigerpromo.com^$all
 ||luckywins.com^$all
@@ -819,6 +835,7 @@
 ||nationalcasino.com^$all
 ||nationalcasino.org^$all
 ||nationalcasinoau.com^$all
+||neonup.club^$all
 ||neospin.com^$all
 ||neospin1.com^$all
 ||neospin10.com^$all
@@ -970,6 +987,7 @@
 ||playzilla1.com^$all
 ||playzilla3.com^$all
 ||playzilla9.com^$all
+||pointsbetz.com^$all
 ||pokie-surf.com^$all
 ||pokieisland.com^$all
 ||pokieisland531.com^$all
@@ -1142,6 +1160,7 @@
 ||ripperspins.com^$all
 ||ripperwins.com^$all
 ||robinroo.com^$all
+||robycasino-3348.com^$all
 ||robycasino3.com^$all
 ||rocketplay-au.com^$all
 ||rocketplay.com^$all
@@ -1344,6 +1363,10 @@
 ||spinit3.com^$all
 ||spinoasis.com^$all
 ||spinozwin.com^$all
+||spinrise.com^$all
+||spinrise1.com^$all
+||spinrise3.com^$all
+||spinrise33.com^$all
 ||spinsamurai.com^$all
 ||spinsamurai1.com^$all
 ||spinsamurai11.com^$all
@@ -1538,16 +1561,19 @@
 ||vegasnow.com^$all
 ||vegastars.com^$all
 ||vegastars1.com^$all
+||vegastars10.com^$all
 ||vegastars2.com^$all
 ||vegastars3.com^$all
 ||vegastars5.com^$all
 ||vegastars7.com^$all
+||vegastars8.com^$all
 ||velobet.com^$all
 ||velvetspin.com^$all
 ||velvetspin.info^$all
 ||viggoslots.com^$all
 ||vigorspin.com^$all
 ||vigorspin.net^$all
+||vinylcasino.com^$all
 ||vipcasinorocket.com^$all
 ||viperspin.casino^$all
 ||viperspin.com^$all
@@ -1607,6 +1633,9 @@
 ||wildpokies8.com^$all
 ||wildpokies8.vip^$all
 ||wildpokiesasia.com^$all
+||wildsino-1243.com^$all
+||wildsino-6913.com^$all
+||wildsino6.com^$all
 ||wildtornado.casino^$all
 ||wildtornado12.casino^$all
 ||wildtornado77.casino^$all
@@ -1620,11 +1649,23 @@
 ||winozwin.com^$all
 ||winparadise.com^$all
 ||winportcasino.com^$all
+||wins-pirit.com^$all
+||wins-pirit.net^$all
 ||wins.io^$all
 ||winspinsamurai.com^$all
+||winspirit-au.com^$all
 ||winspirit.online^$all
 ||winspirit.team^$all
 ||winspirit1.com^$all
+||winspirit10.com^$all
+||winspirit3.com^$all
+||winspirit4.com^$all
+||winspirit5.com^$all
+||winspirit6.com^$all
+||winspirit7.com^$all
+||winspirit8.com^$all
+||winspirit9.com^$all
+||winsspirit.com^$all
 ||winwardcasino.com^$all
 ||winz.io^$all
 ||wizardofozwin.com^$all
@@ -1632,6 +1673,7 @@
 ||wolfwinner.casino^$all
 ||wolfwinner.co^$all
 ||wolfwinner.com^$all
+||wolfwinner.fun^$all
 ||wolfwinner.info^$all
 ||wolfwinner.me^$all
 ||wolfwinner.net^$all
@@ -1691,6 +1733,7 @@
 ||zoome10.casino^$all
 ||zoome12.casino^$all
 ||zoome16.casino^$all
+||zoome17.casino^$all
 ||zoome3.casino^$all
 ||zoome6.casino^$all
 ||zoome9.casino^$all

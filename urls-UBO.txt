@@ -97,10 +97,12 @@
 ||audfairgocasino.com^$all
 ||audpokies.co^$all
 ||aufairgocasino.com^$all
+||auhotpokies.com^$all
 ||auonlinecasino.com^$all
 ||auraaud.net^$all
 ||auscasinos.com^$all
 ||auslots.com^$all
+||auspokies99.com^$all
 ||aussiecasinoclub.org^$all
 ||aussiecasinohex.com^$all
 ||aussieonlinepokies.ch^$all
@@ -142,6 +144,7 @@
 ||betandplay3.com^$all
 ||betandplay4.com^$all
 ||betchain.com^$all
+||betcoin.ag^$all
 ||betibet.com^$all
 ||betonredstag.com^$all
 ||betroom24.com^$all
@@ -293,6 +296,7 @@
 ||comicplaycasino.com^$all
 ||cosmobet.com^$all
 ||crowngold1.com^$all
+||crowngold2.com^$all
 ||crownplay2418.com^$all
 ||crownplay2881.com^$all
 ||crownplay4.com^$all
@@ -301,6 +305,7 @@
 ||crownslots.com^$all
 ||crownslots1.com^$all
 ||cuntspin.com^$all
+||dailyspins.com^$all
 ||dazard.com^$all
 ||dazard1.com^$all
 ||desertnightscasino.com^$all
@@ -415,6 +420,7 @@
 ||freshbet7.me^$all
 ||frumzi-0064.com^$all
 ||frumzi1.com^$all
+||gambiva3.com^$all
 ||gambleonline.co^$all
 ||gametrueblue.com^$all
 ||gemsl100.com^$all
@@ -601,6 +607,7 @@
 ||joefortune.lv^$all
 ||joefortune.net^$all
 ||joefortune.ooo^$all
+||joefortune.win^$all
 ||joefortuneonlinepokies.com^$all
 ||joefortuneonlinepokies.eu^$all
 ||joefortuneonlinepokies.net^$all
@@ -667,6 +674,7 @@
 ||katsubet12.com^$all
 ||kevinspokies.com^$all
 ||kimvegas.com^$all
+||kingaud.com^$all
 ||kingbillycasino.com^$all
 ||kingbillycasino12.com^$all
 ||kingbillywin.com^$all
@@ -739,6 +747,7 @@
 ||levelupcasino5.com^$all
 ||levelupcasino7.com^$all
 ||levelupcasino8.com^$all
+||lightning-bet.com^$all
 ||liveragingbull.com^$all
 ||lokicasino.com^$all
 ||lokicasinoplay1.com^$all
@@ -771,6 +780,15 @@
 ||luckystart.com^$all
 ||luckytigercasino.com^$all
 ||luckytigerpromo.com^$all
+||luckyvibe.com^$all
+||luckyvibe.live^$all
+||luckyvibe1.com^$all
+||luckyvibe2.com^$all
+||luckyvibe3.com^$all
+||luckyvibe4.com^$all
+||luckyvibe5.com^$all
+||luckyvibe6.com^$all
+||luckyvibe7.com^$all
 ||luckywins.com^$all
 ||luckywins15.com^$all
 ||luckywins2.com^$all
@@ -1419,12 +1437,14 @@
 ||syndicate13.casino^$all
 ||syndicatecasino.club^$all
 ||syndicatecasino.xyz^$all
+||talismania-3591.com^$all
 ||talismania-9619.com^$all
 ||talismania.com^$all
 ||tangierscasino.com^$all
 ||tangierscasino1.com^$all
 ||tangierscasinovip.com^$all
 ||tcl99.com^$all
+||tenobet44.io^$all
 ||tf2royal.com^$all
 ||the-dog-house2.com^$all
 ||thebescasino.com^$all
@@ -1588,6 +1608,7 @@
 ||wabo88.me^$all
 ||wabo88.vip^$all
 ||waboom77.live^$all
+||waboom77.org^$all
 ||wagerbeat.com^$all
 ||wagerbeat222.com^$all
 ||wagerbeat237.com^$all
@@ -1709,6 +1730,7 @@
 ||woocasino6.com^$all
 ||woocasino78.com^$all
 ||woocasino90.com^$all
+||woospin.org^$all
 ||woospin.vip^$all
 ||worldofozwin.com^$all
 ||wpokies.com^$all
@@ -1728,6 +1750,7 @@
 ||zenithslots.com^$all
 ||zetcasino1.com^$all
 ||zeturf.com^$all
+||zizobet.com^$all
 ||zoome.casino^$all
 ||zoome1.casino^$all
 ||zoome10.casino^$all

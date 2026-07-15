@@ -97,10 +97,12 @@
 *://*.audfairgocasino.com/*
 *://*.audpokies.co/*
 *://*.aufairgocasino.com/*
+*://*.auhotpokies.com/*
 *://*.auonlinecasino.com/*
 *://*.auraaud.net/*
 *://*.auscasinos.com/*
 *://*.auslots.com/*
+*://*.auspokies99.com/*
 *://*.aussiecasinoclub.org/*
 *://*.aussiecasinohex.com/*
 *://*.aussieonlinepokies.ch/*
@@ -142,6 +144,7 @@
 *://*.betandplay3.com/*
 *://*.betandplay4.com/*
 *://*.betchain.com/*
+*://*.betcoin.ag/*
 *://*.betibet.com/*
 *://*.betonredstag.com/*
 *://*.betroom24.com/*
@@ -293,6 +296,7 @@
 *://*.comicplaycasino.com/*
 *://*.cosmobet.com/*
 *://*.crowngold1.com/*
+*://*.crowngold2.com/*
 *://*.crownplay2418.com/*
 *://*.crownplay2881.com/*
 *://*.crownplay4.com/*
@@ -301,6 +305,7 @@
 *://*.crownslots.com/*
 *://*.crownslots1.com/*
 *://*.cuntspin.com/*
+*://*.dailyspins.com/*
 *://*.dazard.com/*
 *://*.dazard1.com/*
 *://*.desertnightscasino.com/*
@@ -416,6 +421,7 @@
 *://*.freshbet7.me/*
 *://*.frumzi-0064.com/*
 *://*.frumzi1.com/*
+*://*.gambiva3.com/*
 *://*.gambleonline.co/*
 *://*.gametrueblue.com/*
 *://*.gemsl100.com/*
@@ -599,6 +605,7 @@
 *://*.joefortune.lv/*
 *://*.joefortune.net/*
 *://*.joefortune.ooo/*
+*://*.joefortune.win/*
 *://*.joefortuneonlinepokies.com/*
 *://*.joefortuneonlinepokies.eu/*
 *://*.joefortuneonlinepokies.net/*
@@ -665,6 +672,7 @@
 *://*.katsubet12.com/*
 *://*.kevinspokies.com/*
 *://*.kimvegas.com/*
+*://*.kingaud.com/*
 *://*.kingbillycasino.com/*
 *://*.kingbillycasino12.com/*
 *://*.kingbillywin.com/*
@@ -737,6 +745,7 @@
 *://*.levelupcasino5.com/*
 *://*.levelupcasino7.com/*
 *://*.levelupcasino8.com/*
+*://*.lightning-bet.com/*
 *://*.liveragingbull.com/*
 *://*.lokicasino.com/*
 *://*.lokicasinoplay1.com/*
@@ -769,6 +778,15 @@
 *://*.luckystart.com/*
 *://*.luckytigercasino.com/*
 *://*.luckytigerpromo.com/*
+*://*.luckyvibe.com/*
+*://*.luckyvibe.live/*
+*://*.luckyvibe1.com/*
+*://*.luckyvibe2.com/*
+*://*.luckyvibe3.com/*
+*://*.luckyvibe4.com/*
+*://*.luckyvibe5.com/*
+*://*.luckyvibe6.com/*
+*://*.luckyvibe7.com/*
 *://*.luckywins.com/*
 *://*.luckywins15.com/*
 *://*.luckywins2.com/*
@@ -1417,12 +1435,14 @@
 *://*.syndicate13.casino/*
 *://*.syndicatecasino.club/*
 *://*.syndicatecasino.xyz/*
+*://*.talismania-3591.com/*
 *://*.talismania-9619.com/*
 *://*.talismania.com/*
 *://*.tangierscasino.com/*
 *://*.tangierscasino1.com/*
 *://*.tangierscasinovip.com/*
 *://*.tcl99.com/*
+*://*.tenobet44.io/*
 *://*.tf2royal.com/*
 *://*.the-dog-house2.com/*
 *://*.thebescasino.com/*
@@ -1586,6 +1606,7 @@
 *://*.wabo88.me/*
 *://*.wabo88.vip/*
 *://*.waboom77.live/*
+*://*.waboom77.org/*
 *://*.wagerbeat.com/*
 *://*.wagerbeat222.com/*
 *://*.wagerbeat237.com/*
@@ -1707,6 +1728,7 @@
 *://*.woocasino6.com/*
 *://*.woocasino78.com/*
 *://*.woocasino90.com/*
+*://*.woospin.org/*
 *://*.woospin.vip/*
 *://*.worldofozwin.com/*
 *://*.wpokies.com/*
@@ -1726,6 +1748,7 @@
 *://*.zenithslots.com/*
 *://*.zetcasino1.com/*
 *://*.zeturf.com/*
+*://*.zizobet.com/*
 *://*.zoome.casino/*
 *://*.zoome1.casino/*
 *://*.zoome10.casino/*

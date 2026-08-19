@@ -75,6 +75,7 @@
 ||aco96.com^$all
 ||aco96.org^$all
 ||alfcasino1.com^$all
+||alizetihr.com^$all
 ||allspinswin.com^$all
 ||allspinswin248.com^$all
 ||allspinswin263.com^$all
@@ -222,6 +223,7 @@
 ||burancasino4.com^$all
 ||cabarino.com^$all
 ||candyland.casino^$all
+||casea1.com^$all
 ||cashed-3141.com^$all
 ||casinfortune1.com^$all
 ||casinia1.com^$all
@@ -281,7 +283,9 @@
 ||cherry-gold.club^$all
 ||cherrygoldcasino.com^$all
 ||cherrygoldclub.com^$all
+||chromabet.casino^$all
 ||chromabet.org^$all
+||chromabetcasino.com^$all
 ||cleobetra-3236.com^$all
 ||cleobetra2.com^$all
 ||cleopatracasino.com^$all
@@ -295,6 +299,7 @@
 ||cometroom.com^$all
 ||comicplaycasino.com^$all
 ||cosmobet.com^$all
+||crown96.com^$all
 ||crowngold1.com^$all
 ||crowngold2.com^$all
 ||crownplay2418.com^$all
@@ -304,6 +309,7 @@
 ||crownpokies.com^$all
 ||crownslots.com^$all
 ||crownslots1.com^$all
+||ctcoleman.com^$all
 ||cuntspin.com^$all
 ||dailyspins.com^$all
 ||dazard.com^$all
@@ -836,6 +842,7 @@
 ||n1bet6.com^$all
 ||n1bet7.com^$all
 ||n1bet8.com^$all
+||n1bet9.com^$all
 ||n1bt.com^$all
 ||natiocasino-luck.com^$all
 ||natiocasino.com^$all
@@ -1122,6 +1129,7 @@
 ||retrobet2.com^$all
 ||retrobet3.com^$all
 ||retrobet4.com^$all
+||retrobet5.com^$all
 ||richardcasino.com^$all
 ||richardcasino1.com^$all
 ||richardcasino10.com^$all
@@ -1229,6 +1237,7 @@
 ||rollxo.live^$all
 ||rollxo1.com^$all
 ||rollxo11.com^$all
+||rollxo12.com^$all
 ||rollxo2.com^$all
 ||rollxo3.com^$all
 ||rollxo4.com^$all
@@ -1265,6 +1274,7 @@
 ||royalreels20.com^$all
 ||royalreels21.com^$all
 ||royalreels22.com^$all
+||royalreels23.com^$all
 ||royalreels3.com^$all
 ||royalreels4.com^$all
 ||royalreels5.com^$all
@@ -1272,6 +1282,7 @@
 ||royalreels7.com^$all
 ||royalreels8.com^$all
 ||royalreels9.com^$all
+||royalreelsonlinecasino.com^$all
 ||royalsreelscasino.com^$all
 ||rp.casino^$all
 ||rubypokies.com^$all
@@ -1424,6 +1435,7 @@
 ||staycasino6.com^$all
 ||staycasino7.com^$all
 ||staycasino8.com^$all
+||staycasino9.com^$all
 ||stellarspins.club^$all
 ||stellarspins.com^$all
 ||stellarspins.fun^$all
@@ -1481,6 +1493,7 @@
 ||thepokies14.net^$all
 ||thepokies15.net^$all
 ||thepokies17.net^$all
+||thepokies172.net^$all
 ||thepokies2.net^$all
 ||thepokies24.net^$all
 ||thepokies3.net^$all
@@ -1641,6 +1654,7 @@
 ||wildfortune4.io^$all
 ||wildfortune44.io^$all
 ||wildfortune5.io^$all
+||wildfortune59.io^$all
 ||wildfortune6.io^$all
 ||wildfortune8.io^$all
 ||wildfortune9.io^$all

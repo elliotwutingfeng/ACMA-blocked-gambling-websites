@@ -147,6 +147,7 @@
 *://*.betchain.com/*
 *://*.betcoin.ag/*
 *://*.betibet.com/*
+*://*.betninja21.com/*
 *://*.betonredstag.com/*
 *://*.betroom24.com/*
 *://*.betsquare.com/*
@@ -160,6 +161,7 @@
 *://*.betzillo4.com/*
 *://*.betzillo5.com/*
 *://*.betzillo6.com/*
+*://*.betzillo7.com/*
 *://*.bigredstag.com/*
 *://*.billybillion.com/*
 *://*.bitdreams.com/*
@@ -210,6 +212,7 @@
 *://*.bonzaspins266.com/*
 *://*.bonzaspins281.com/*
 *://*.bonzaspins296.com/*
+*://*.bonzaspins311.com/*
 *://*.bonzaspins33.com/*
 *://*.boomerang-casino.com/*
 *://*.boomerang-play.com/*
@@ -270,6 +273,7 @@
 *://*.casinorocket32.com/*
 *://*.casinorocket37.com/*
 *://*.casinorocket4.com/*
+*://*.casinorocket41.com/*
 *://*.casinorocket5.com/*
 *://*.casinorocket76.com/*
 *://*.casinorocket8.com/*
@@ -299,11 +303,14 @@
 *://*.cometroom.com/*
 *://*.comicplaycasino.com/*
 *://*.cosmobet.com/*
+*://*.cosmobet.one/*
 *://*.crown96.com/*
 *://*.crowngold1.com/*
 *://*.crowngold2.com/*
+*://*.crownplay-5811.com/*
 *://*.crownplay2418.com/*
 *://*.crownplay2881.com/*
+*://*.crownplay3301.com/*
 *://*.crownplay4.com/*
 *://*.crownplay6.com/*
 *://*.crownpokies.com/*
@@ -395,7 +402,9 @@
 *://*.fastpay-casino76.com/*
 *://*.fastpay-casino77.com/*
 *://*.fastspin99.com/*
+*://*.fatpirat.casino/*
 *://*.fatpirate-9694.com/*
+*://*.fatpirate-au.com/*
 *://*.fatpirate.com/*
 *://*.fatpirate1.com/*
 *://*.fatpirate2.com/*
@@ -427,6 +436,7 @@
 *://*.freshbet7.me/*
 *://*.frumzi-0064.com/*
 *://*.frumzi1.com/*
+*://*.ft43--fatpirate.com/*
 *://*.gambiva3.com/*
 *://*.gambleonline.co/*
 *://*.gametrueblue.com/*
@@ -486,6 +496,7 @@
 *://*.grandfortunecasino.com/*
 *://*.grandrush.com/*
 *://*.grandrush.io/*
+*://*.grandrushonline.com/*
 *://*.grandrushpokies.com/*
 *://*.grandrushvip.com/*
 *://*.grandrushvip1.com/*
@@ -560,6 +571,7 @@
 *://*.ignitioncasino.lv/*
 *://*.ignitioncasino.net/*
 *://*.ignitioncasino.net.lv/*
+*://*.ignitioncasino.ooo/*
 *://*.ignitioncasino.org.lv/*
 *://*.ignitionpoker.eu/*
 *://*.ignitionpoker.net.lv/*
@@ -612,6 +624,7 @@
 *://*.joefortune.net/*
 *://*.joefortune.ooo/*
 *://*.joefortune.win/*
+*://*.joefortune.zone/*
 *://*.joefortuneonlinepokies.com/*
 *://*.joefortuneonlinepokies.eu/*
 *://*.joefortuneonlinepokies.net/*
@@ -700,6 +713,7 @@
 *://*.kingjohnnie.com/*
 *://*.kingjohnnie.info/*
 *://*.kingjohnnie.live/*
+*://*.kingjohnnie.me/*
 *://*.kingjohnnie.net/*
 *://*.kingjohnnie.online/*
 *://*.kingjohnnie1.com/*
@@ -734,6 +748,7 @@
 *://*.letslucky24.com/*
 *://*.letslucky3.com/*
 *://*.letslucky4.com/*
+*://*.letslucky457.com/*
 *://*.letslucky5.com/*
 *://*.letslucky6.com/*
 *://*.letslucky77.com/*
@@ -762,6 +777,7 @@
 *://*.luckydreams.com/*
 *://*.luckydreams1.com/*
 *://*.luckydreams10.com/*
+*://*.luckydreams247.com/*
 *://*.luckydreams5.com/*
 *://*.luckydreams6.com/*
 *://*.luckydreams77.com/*
@@ -1128,10 +1144,12 @@
 *://*.retrobet3.com/*
 *://*.retrobet4.com/*
 *://*.retrobet5.com/*
+*://*.retrobet6.com/*
 *://*.richardcasino.com/*
 *://*.richardcasino1.com/*
 *://*.richardcasino10.com/*
 *://*.richardcasino11.com/*
+*://*.richardcasino12.com/*
 *://*.richardcasino2.com/*
 *://*.richardcasino3.com/*
 *://*.richardcasino4.com/*
@@ -1159,6 +1177,8 @@
 *://*.rickycasino7.com/*
 *://*.rickycasino8.com/*
 *://*.rickys-casino.com/*
+*://*.riichardcasino.com/*
+*://*.riobet188.net/*
 *://*.ripper-bonus.com/*
 *://*.ripper-bonuses.casino/*
 *://*.ripper-casino.games/*
@@ -1273,6 +1293,7 @@
 *://*.royalreels21.com/*
 *://*.royalreels22.com/*
 *://*.royalreels23.com/*
+*://*.royalreels24.com/*
 *://*.royalreels3.com/*
 *://*.royalreels4.com/*
 *://*.royalreels5.com/*
@@ -1359,6 +1380,7 @@
 *://*.sol.casino/*
 *://*.sol100.casino/*
 *://*.spacelilly.com/*
+*://*.spade69.net/*
 *://*.spartan-slots.net/*
 *://*.spartans-slots.net/*
 *://*.spartanslots.com/*
@@ -1394,6 +1416,7 @@
 *://*.spinrise1.com/*
 *://*.spinrise3.com/*
 *://*.spinrise33.com/*
+*://*.spinrise5.com/*
 *://*.spinsamurai.com/*
 *://*.spinsamurai1.com/*
 *://*.spinsamurai11.com/*
@@ -1488,6 +1511,7 @@
 *://*.thepokies118.net/*
 *://*.thepokies119.net/*
 *://*.thepokies12.net/*
+*://*.thepokies124.net/*
 *://*.thepokies14.net/*
 *://*.thepokies15.net/*
 *://*.thepokies17.net/*
@@ -1498,6 +1522,7 @@
 *://*.thepokies30.net/*
 *://*.thepokies31.net/*
 *://*.thepokies32.net/*
+*://*.thepokies33.com/*
 *://*.thepokies33.net/*
 *://*.thepokies34.net/*
 *://*.thepokies35.net/*
@@ -1590,9 +1615,11 @@
 *://*.vegashero1.com/*
 *://*.vegasino6.com/*
 *://*.vegasnow.com/*
+*://*.vegasnow1.com/*
 *://*.vegastars.com/*
 *://*.vegastars1.com/*
 *://*.vegastars10.com/*
+*://*.vegastars11.com/*
 *://*.vegastars2.com/*
 *://*.vegastars3.com/*
 *://*.vegastars5.com/*
@@ -1634,6 +1661,8 @@
 *://*.wagerbeat414.com/*
 *://*.wagerbeat435.com/*
 *://*.wagerbeat531.com/*
+*://*.wantedwin.com/*
+*://*.wantedwin3.com/*
 *://*.wantedwin7.com/*
 *://*.wazamba1.com/*
 *://*.wazamba2.com/*
@@ -1654,6 +1683,7 @@
 *://*.wildfortune5.io/*
 *://*.wildfortune59.io/*
 *://*.wildfortune6.io/*
+*://*.wildfortune77.io/*
 *://*.wildfortune8.io/*
 *://*.wildfortune9.io/*
 *://*.wildjoker.com/*
@@ -1685,6 +1715,9 @@
 *://*.wins-pirit.com/*
 *://*.wins-pirit.net/*
 *://*.wins.io/*
+*://*.winshark.com/*
+*://*.winshark.store/*
+*://*.winshark47.com/*
 *://*.winspinsamurai.com/*
 *://*.winspirit-au.com/*
 *://*.winspirit.online/*
@@ -1712,6 +1745,7 @@
 *://*.wolfwinner.net/*
 *://*.wolfwinner.online/*
 *://*.wombet.gg/*
+*://*.wombet1.gg/*
 *://*.wonaco-0891.com/*
 *://*.wonaco-1562.com/*
 *://*.wonaco-2936.com/*

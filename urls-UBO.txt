@@ -432,7 +432,6 @@
 ||freespinfun.com^$all
 ||freespinpro.com^$all
 ||freespinz.com^$all
-||freshbet7.me^$all
 ||frumzi-0064.com^$all
 ||frumzi1.com^$all
 ||ft43--fatpirate.com^$all

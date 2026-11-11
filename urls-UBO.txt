@@ -67,6 +67,7 @@
 ||abalucky33.com^$all
 ||abigcandy.com^$all
 ||abigcandyclub.com^$all
+||abigcandyspins.com^$all
 ||abocasino.com^$all
 ||abuking-1000.com^$all
 ||acepokies.net^$all
@@ -162,6 +163,7 @@
 ||betzillo5.com^$all
 ||betzillo6.com^$all
 ||betzillo7.com^$all
+||betzillo8.com^$all
 ||bigredstag.com^$all
 ||billybillion.com^$all
 ||bitdreams.com^$all
@@ -218,6 +220,7 @@
 ||boomerang-play.com^$all
 ||bovegas.com^$all
 ||bovegasvip.com^$all
+||bovegasworld.com^$all
 ||box-24casino.com^$all
 ||box-24slots.com^$all
 ||box24casino.com^$all
@@ -283,6 +286,7 @@
 ||casinoshortlist.org^$all
 ||casiny.com^$all
 ||casiny1.com^$all
+||casiny4.com^$all
 ||cazino-bizzo.com^$all
 ||cherry-gold.club^$all
 ||cherrygoldcasino.com^$all
@@ -316,6 +320,7 @@
 ||crownpokies.com^$all
 ||crownslots.com^$all
 ||crownslots1.com^$all
+||crownslots2.com^$all
 ||ctcoleman.com^$all
 ||cuntspin.com^$all
 ||dailyspins.com^$all
@@ -347,6 +352,7 @@
 ||fafabet9.com^$all
 ||fair-go.casino^$all
 ||fairg0games.club^$all
+||fairgo-australia.com^$all
 ||fairgo-casino-au.com^$all
 ||fairgo-casinos.net^$all
 ||fairgo-online.com^$all
@@ -363,6 +369,7 @@
 ||fairgocasino-au.com^$all
 ||fairgocasino.com^$all
 ||fairgocasino.mobi^$all
+||fairgocasino5.com^$all
 ||fairgocasinoau.com^$all
 ||fairgocasinoaud.com^$all
 ||fairgocasinobonuses.com^$all
@@ -438,6 +445,7 @@
 ||gambiva3.com^$all
 ||gambleonline.co^$all
 ||gametrueblue.com^$all
+||gday77au.com^$all
 ||gemsl100.com^$all
 ||gemslots1.com^$all
 ||getredstag.com^$all
@@ -573,6 +581,7 @@
 ||ignitioncasino.net.lv^$all
 ||ignitioncasino.ooo^$all
 ||ignitioncasino.org.lv^$all
+||ignitioncasino.uno^$all
 ||ignitionpoker.eu^$all
 ||ignitionpoker.net.lv^$all
 ||ilucki.com^$all
@@ -641,6 +650,7 @@
 ||johnniekashkings.me^$all
 ||johnniekashkings.net^$all
 ||johnniekashkings.online^$all
+||johnniekashkings.org^$all
 ||johnniekashkingscasino.com^$all
 ||johnvegascasino.com^$all
 ||johnvegascasino22.com^$all
@@ -736,10 +746,13 @@
 ||leon.bet^$all
 ||leon.casino^$all
 ||leon109.bet^$all
+||leon159.bet^$all
 ||leon171.bet^$all
+||leon196.bet^$all
 ||leon199.bet^$all
 ||leon223.casino^$all
 ||leon225.casino^$all
+||leon785.bet^$all
 ||leonaumail.com^$all
 ||letslucky.com^$all
 ||letslucky1.com^$all
@@ -759,6 +772,7 @@
 ||levelupcasino10.com^$all
 ||levelupcasino11.com^$all
 ||levelupcasino2.com^$all
+||levelupcasino20.com^$all
 ||levelupcasino23.com^$all
 ||levelupcasino3.com^$all
 ||levelupcasino30.com^$all
@@ -793,6 +807,7 @@
 ||luckymatecasino.com^$all
 ||luckyones.com^$all
 ||luckyones1.com^$all
+||luckyones2.com^$all
 ||luckyones7.com^$all
 ||luckyredstag.com^$all
 ||luckystar.io^$all
@@ -815,9 +830,11 @@
 ||luckywins2.com^$all
 ||luckywins3.com^$all
 ||luckywins771.com^$all
+||luckywins999.com^$all
 ||lukki.com^$all
 ||lukki1.com^$all
 ||lukki2.com^$all
+||lukki3.com^$all
 ||lukki7.com^$all
 ||lukki77.com^$all
 ||lukki777.com^$all
@@ -879,6 +896,7 @@
 ||neospin.com^$all
 ||neospin1.com^$all
 ||neospin10.com^$all
+||neospin11.com^$all
 ||neospin2.com^$all
 ||neospin3.com^$all
 ||neospin4.com^$all
@@ -935,6 +953,7 @@
 ||ozwinaud.com^$all
 ||ozwincasino-au.com^$all
 ||ozwincasino.com^$all
+||ozwincasino6.com^$all
 ||ozwinfun.com^$all
 ||ozwingames.com^$all
 ||ozwinland.com^$all
@@ -1151,6 +1170,7 @@
 ||richardcasino10.com^$all
 ||richardcasino11.com^$all
 ||richardcasino12.com^$all
+||richardcasino13.com^$all
 ||richardcasino2.com^$all
 ||richardcasino3.com^$all
 ||richardcasino4.com^$all
@@ -1282,6 +1302,7 @@
 ||rooli253.com^$all
 ||rooli3.com^$all
 ||rooster.bet^$all
+||rooster1.bet^$all
 ||royal-reels.com^$all
 ||royalreels.com^$all
 ||royalreels1.com^$all
@@ -1309,6 +1330,7 @@
 ||sector777.com^$all
 ||sector777.info^$all
 ||sector777mail.com^$all
+||sg512.com^$all
 ||sgcasino-8391.com^$all
 ||sgcasino.com^$all
 ||skycrown.com^$all
@@ -1402,6 +1424,7 @@
 ||spinanga1.com^$all
 ||spinanga4894.com^$all
 ||spinanga5.com^$all
+||spinbet1.com^$all
 ||spinbetter.com^$all
 ||spinbit.com^$all
 ||spinfever1.com^$all
@@ -1621,6 +1644,7 @@
 ||vegastars1.com^$all
 ||vegastars10.com^$all
 ||vegastars11.com^$all
+||vegastars12.com^$all
 ||vegastars2.com^$all
 ||vegastars3.com^$all
 ||vegastars5.com^$all
@@ -1634,6 +1658,7 @@
 ||vigorspin.net^$all
 ||vinylcasino.com^$all
 ||vipcasinorocket.com^$all
+||viperspin.bet^$all
 ||viperspin.casino^$all
 ||viperspin.com^$all
 ||viperspin.net^$all
@@ -1770,6 +1795,7 @@
 ||woocasino.com^$all
 ||woocasino1.com^$all
 ||woocasino100.com^$all
+||woocasino101.com^$all
 ||woocasino2.com^$all
 ||woocasino3.com^$all
 ||woocasino4.com^$all
@@ -1785,6 +1811,7 @@
 ||wpokies2.com^$all
 ||wpokies3.com^$all
 ||wpokies4.com^$all
+||x4betau.net^$all
 ||xbet.ag^$all
 ||xpokies.com^$all
 ||xpslots.com^$all
@@ -1804,6 +1831,7 @@
 ||zoome12.casino^$all
 ||zoome16.casino^$all
 ||zoome17.casino^$all
+||zoome20.casino^$all
 ||zoome3.casino^$all
 ||zoome6.casino^$all
 ||zoome9.casino^$all
